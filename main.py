@@ -20,20 +20,6 @@ man_pages = './manpages.json'
 
 def main():
 
-  #map attack vectors to ATT&CK
-  AV1 = 'take screenshot'
-  mapping1 = map_attack_vector(AV1)
-
-  AV2 = 'delete logs'
-  mapping2 = map_attack_vector(AV2)
-
-  AV3 = 'exfiltrate data to C2 server'
-  mapping3 = map_attack_vector(AV3)
-
-  #map any text to ATT&CK
-  cve = ""
-  mapping = map_text(cve,CVE = False)
-
   total_contents = []
 
   with open(file_name) as openfile:
@@ -56,7 +42,19 @@ def main():
   model = SentenceTransformer('basel/ATTACK-BERT')
   embeddings = model.encode(descriptions)
 
-  print(cosine_similarity([embeddings[0]], [embeddings[1]]))
+  print("Cosine Similarity:",cosine_similarity([embeddings[0]], [embeddings[1]]))
+
+  print("Descriptions:",descriptions[1])
+
+    #map any text to ATT&CK
+  mapping = map_text(descriptions[1],CVE = False)
+
+  print("mapping:",mapping[0])
+
+  #map attack vectors to ATT&CK
+  mapping1 = map_attack_vector(descriptions[1])
+
+  print("mapping1:",mapping1[0])
 
 if __name__ == "__main__":
     main()
