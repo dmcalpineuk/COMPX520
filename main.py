@@ -10,10 +10,16 @@ __email__ = "contact@danielmcalpine.com"
 __status__ = "Development"
 __dependecies__ = "json, sentence_transformers"
 
+import os
+os.environ["TRANSFORMERS_VERBOSITY"] = "error"
 import json
-from sentence_transformers import SentenceTransformer
-from sklearn.metrics.pairwise import cosine_similarity
-from SMET import map_text, map_attack_vector
+#from sentence_transformers import SentenceTransformer
+#from sklearn.metrics.pairwise import cosine_similarity
+from SMET import map_attack_vector
+
+
+#from transformers.utils import logging
+#logging.set_verbosity_error()
 
 file_name = './cowrie.json'
 man_pages = './manpages.json'
@@ -30,31 +36,27 @@ def main():
     man_pages_dict = json.load(f)
 
   descriptions = []
+  #model = SentenceTransformer('basel/ATTACK-BERT')
+  
+  print()
+  print()
 
   for event in total_contents:
     if 'cowrie.command.input' in event['eventid']:
+      command = event['input'].split(" ", 1)[0]
       try:
-        print(event['input'].split(" ", 1)[0], "-" , man_pages_dict[event['input'].split(" ", 1)[0]])
-        descriptions.append(man_pages_dict[event['input'].split(" ", 1)[0]])
+        description = man_pages_dict[command]
+        #embeddings = model.encode(description)
+        #cs = cosine_similarity([embeddings[0]], [embeddings[1]])
+        #map attack vectors to ATT&CK
+        mapping = map_attack_vector(description)
+        descriptions.append(description)
+        print(command, "-", description, "- Mapping:", mapping)
       except Exception:
-        print(event['input'], "- unknown command")
+        print(command, "- unknown command")
 
-  model = SentenceTransformer('basel/ATTACK-BERT')
-  embeddings = model.encode(descriptions)
-
-  print("Cosine Similarity:",cosine_similarity([embeddings[0]], [embeddings[1]]))
-
-  print("Descriptions:",descriptions[1])
-
-    #map any text to ATT&CK
-  mapping = map_text(descriptions[1],CVE = False)
-
-  print("mapping:",mapping[0])
-
-  #map attack vectors to ATT&CK
-  mapping1 = map_attack_vector(descriptions[1])
-
-  print("mapping1:",mapping1[0])
-
+  print()
+  print()
+    
 if __name__ == "__main__":
     main()
