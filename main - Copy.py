@@ -35,9 +35,7 @@ def main():
   with open(man_pages) as f:
     man_pages_dict = json.load(f)
 
-  #descriptions = []
-  string = ""
-  #command = ""
+  descriptions = []
   #model = SentenceTransformer('basel/ATTACK-BERT')
   
   print()
@@ -51,19 +49,11 @@ def main():
         #embeddings = model.encode(description)
         #cs = cosine_similarity([embeddings[0]], [embeddings[1]])
         #map attack vectors to ATT&CK
-        #descriptions.append(description)
-        string += description + ". "
-        mapping = map_attack_vector(string)
+        mapping = map_attack_vector(description)
+        descriptions.append(description)
+        print(command, "-", description, "- Mapping:", mapping)
       except Exception:
         print(command, "- unknown command")
-
-  print(string)
-  number = 0
-  print(len(mapping))
-  while number < len(mapping):
-    if mapping[number][1] > 0.02:
-      print("- Mapping:", mapping[number])
-    number += 1
 
   print()
   print()
