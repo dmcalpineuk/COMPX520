@@ -8,18 +8,13 @@ __version__ = "1.0.0"
 __maintainer__ = "Daniel McAlpine"
 __email__ = "contact@danielmcalpine.com"
 __status__ = "Development"
-__dependecies__ = "json, sentence_transformers"
+__dependecies__ = "json, SMET"
 
 import os
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
 import json
-#from sentence_transformers import SentenceTransformer
-#from sklearn.metrics.pairwise import cosine_similarity
 from SMET import map_attack_vector
 
-
-#from transformers.utils import logging
-#logging.set_verbosity_error()
 
 file_name = './cowrie.json'
 man_pages = './manpages.json'
@@ -35,10 +30,7 @@ def main():
   with open(man_pages) as f:
     man_pages_dict = json.load(f)
 
-  #descriptions = []
   string = ""
-  #command = ""
-  #model = SentenceTransformer('basel/ATTACK-BERT')
   
   print()
   print()
