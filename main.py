@@ -8,7 +8,7 @@ __version__ = "1.0.0"
 __maintainer__ = "Daniel McAlpine"
 __email__ = "contact@danielmcalpine.com"
 __status__ = "Development"
-__dependecies__ = "json, SMET"
+__dependecies__ = "os, json, SMET, sentence_transformers"
 
 import os
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
@@ -18,43 +18,63 @@ from SMET import map_attack_vector
 
 file_name = './cowrie.json'
 man_pages = './manpages.json'
+threshold = 0.01
 
 def main():
 
   total_contents = []
 
+  #import cowrie output from json file
   with open(file_name) as openfile:
     for line in openfile:
       total_contents.append(json.loads(line))
 
+  #import man pages short descriptions
   with open(man_pages) as f:
     man_pages_dict = json.load(f)
 
-  string = ""
-  
   print()
   print()
 
+  string = ""
+  thislist = []
+  
   for event in total_contents:
     if 'cowrie.command.input' in event['eventid']:
       command = event['input'].split(" ", 1)[0]
       try:
         description = man_pages_dict[command]
-        #embeddings = model.encode(description)
-        #cs = cosine_similarity([embeddings[0]], [embeddings[1]])
-        #map attack vectors to ATT&CK
-        #descriptions.append(description)
+        mapping = map_attack_vector(description)
+        print(command, "-" , description, "-", mapping[0])
         string += description + ". "
-        mapping = map_attack_vector(string)
       except Exception:
         print(command, "- unknown command")
 
+  for event in total_contents:
+    if 'cowrie.command.input' in event['eventid']:
+      #session_id = event['session']
+      #multiples = event['input'].count('|')
+      #if multiples == 0:
+
+  print()
+  print()
+
   print(string)
+  mapping1 = map_attack_vector(string)
+
+  print()
+  print()
+
+  print(len(mapping1))
+
+  print()
+  print()
+
   number = 0
-  print(len(mapping))
-  while number < len(mapping):
-    if mapping[number][1] > 0.02:
-      print("- Mapping:", mapping[number])
+
+  while number < len(mapping1):
+    if mapping[number][1] > threshold:
+      print("- Mapping:", mapping1[number])
     number += 1
 
   print()
