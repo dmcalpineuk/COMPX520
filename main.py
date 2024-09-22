@@ -18,7 +18,7 @@ from SMET import map_attack_vector
 
 file_name = './cowrie.json'
 man_pages = './manpages.json'
-threshold = 0.01
+threshold = 0.02
 
 def main():
 
@@ -37,22 +37,33 @@ def main():
   print()
 
   string = ""
-  thislist = []
-  
-  for event in total_contents:
-    if 'cowrie.command.input' in event['eventid']:
-      command = event['input'].split(" ", 1)[0]
-      try:
-        description = man_pages_dict[command]
-        mapping = map_attack_vector(description)
-        print(command, "-" , description, "-", mapping[0])
-        string += description + ". "
-      except Exception:
-        print(command, "- unknown command")
 
   for event in total_contents:
     if 'cowrie.command.input' in event['eventid']:
-      #session_id = event['session']
+      # Initialize a list to store the commands
+      commands = []
+      # Initialize a list to split the lines
+      parts = []
+      # Split the string on the pipe character
+      parts = event['input'].split('|')
+      try:
+        # Iterate over the parts
+        for part in parts:
+          # Strip leading and trailing whitespace and split to get the first word
+          next_word = part.strip().split()[0]
+          commands.append(next_word)
+        for command in commands:
+          description = man_pages_dict[command]
+          mapping = map_attack_vector(description)
+          print(command, "-" , description, "-", mapping[0])
+          string += description + ". "
+      except Exception:
+        for command in commands:
+          print(command, "- unknown command")
+
+  for event in total_contents:
+    if 'cowrie.command.input' in event['eventid']:
+      session_id = event['session']
       #multiples = event['input'].count('|')
       #if multiples == 0:
 
@@ -65,7 +76,7 @@ def main():
   print()
   print()
 
-  print(len(mapping1))
+  print("Total mappings: ",len(mapping1))
 
   print()
   print()
@@ -73,7 +84,7 @@ def main():
   number = 0
 
   while number < len(mapping1):
-    if mapping[number][1] > threshold:
+    if mapping1[number][1] > threshold:
       print("- Mapping:", mapping1[number])
     number += 1
 
