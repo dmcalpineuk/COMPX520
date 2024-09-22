@@ -14,3 +14,4 @@
 {"eventid":"cowrie.command.input","input":"top","message":"CMD: top","sensor":"Cowrie","timestamp":"2024-09-18T17:53:39.799211Z","src_ip":"192.168.56.1","session":"01c9937b1a7b"}
 {"eventid":"cowrie.command.input","input":"uname","message":"CMD: uname","sensor":"Cowrie","timestamp":"2024-09-18T17:53:52.664594Z","src_ip":"192.168.56.1","session":"01c9937b1a7b"}
 {"eventid":"cowrie.command.input","input":"uname -a","message":"CMD: uname -a","sensor":"Cowrie","timestamp":"2024-09-18T17:54:03.334941Z","src_ip":"192.168.56.1","session":"01c9937b1a7b"}
+{"eventid":"cowrie.command.input","input":"sudo apt-get update && sudo apt-get upgrade","message":"CMD: uname -a","sensor":"Cowrie","timestamp":"2024-09-18T17:54:03.334941Z","src_ip":"192.168.56.1","session":"01c9937b1a7b"}
