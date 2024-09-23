@@ -12,13 +12,19 @@ __dependecies__ = "os, json, SMET, sentence_transformers"
 
 import os
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
+import re
 import json
 from SMET import map_attack_vector
+import subprocess
+
+
 
 
 file_name = './cowrie.json'
 man_pages = './manpages.json'
 threshold = 0.02
+# Define the delimiters
+delimiters = r"[ /\"\\,\-()[\]{};']+"
 
 def main():
 
@@ -33,33 +39,25 @@ def main():
   with open(man_pages) as f:
     man_pages_dict = json.load(f)
 
-  print()
-  print()
-
   string = ""
 
   for event in total_contents:
     if 'cowrie.command.input' in event['eventid']:
-      # Initialize a list to store the commands
-      commands = []
-      # Initialize a list to split the lines
-      parts = []
-      # Split the string on the pipe character
-      parts = event['input'].split('|')
-      try:
-        # Iterate over the parts
-        for part in parts:
-          # Strip leading and trailing whitespace and split to get the first word
-          next_word = part.strip().split()[0]
-          commands.append(next_word)
-        for command in commands:
-          description = man_pages_dict[command]
+      commands = [item.strip() for item in re.split(delimiters, event['input']) if item.strip()]
+      print(commands)
+      for command in commands:
+        try:
+          #description = man_pages_dict[command]
+          description = subprocess.run(['whatis', command], capture_output=True, text=True)
           mapping = map_attack_vector(description)
           print(command, "-" , description, "-", mapping[0])
           string += description + ". "
-      except Exception:
-        for command in commands:
+        except Exception:
+          #for command in commands:
           print(command, "- unknown command")
+
+    print()
+    print()
 
   for event in total_contents:
     if 'cowrie.command.input' in event['eventid']:
