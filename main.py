@@ -24,7 +24,7 @@ file_name = './cowrie.json'
 man_pages = './manpages.json'
 threshold = 0.02
 # Define the delimiters
-delimiters = r"[ /\"\\,\-()[\]{};']+"
+delimiters = r"[ /\"\\,(\[\]{};\']+"
 
 def main():
 
@@ -47,8 +47,9 @@ def main():
       print(commands)
       for command in commands:
         try:
-          #description = man_pages_dict[command]
-          description = subprocess.run(['whatis', command], capture_output=True, text=True)
+          description = man_pages_dict[command]
+          print(type(command))
+          #description = subprocess.run(['whatis', command], capture_output=True, text=True)
           mapping = map_attack_vector(description)
           print(command, "-" , description, "-", mapping[0])
           string += description + ". "
