@@ -1,0 +1,383 @@
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "hipchat\nb6gzeAIagdYb\nb6gzeAIagdYb"|passwd|bash
+echo "hipchat\nb6gzeAIagdYb\nb6gzeAIagdYb\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin hipchat" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin\n1vi4usckos6b\n1vi4usckos6b"|passwd|bash
+echo "admin\n1vi4usckos6b\n1vi4usckos6b\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssw0rd123\nIr5EEzXFWDUl\nIr5EEzXFWDUl"|passwd|bash
+echo "p@ssw0rd123\nIr5EEzXFWDUl\nIr5EEzXFWDUl\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssw0rd123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+cat
+proc
+cpuinfo
+grep
+name
+wc
+-l
+echo
+-e
+hipchat
+nb6gzeAIagdYb
+nb6gzeAIagdYb
+passwd
+bash
+echo
+hipchat
+nb6gzeAIagdYb
+nb6gzeAIagdYb
+n
+passwd
+echo
+321
+>
+var
+tmp
+.var03522123
+rm
+-rf
+var
+tmp
+.var03522123
+cat
+var
+tmp
+.var03522123
+head
+-n
+1
+cat
+proc
+cpuinfo
+grep
+name
+head
+-n
+1
+awk
+'
+print
+$4
+$5
+$6
+$7
+$8
+$9
+}'
+free
+-m
+grep
+Mem
+awk
+'
+print
+$2
+$3
+$4
+$5
+$6
+$7}'
+ls
+-lh
+$
+which
+ls)
+crontab
+-l
+w
+uname
+-m
+cat
+proc
+cpuinfo
+grep
+model
+grep
+name
+wc
+-l
+top
+uname
+uname
+-a
+lscpu
+grep
+Model
+echo
+admin
+hipchat
+>
+tmp
+up.txt
+rm
+-rf
+var
+tmp
+dota*
+
+cat
+proc
+cpuinfo
+grep
+name
+wc
+-l
+echo
+-e
+admin
+n1vi4usckos6b
+n1vi4usckos6b
+passwd
+bash
+echo
+admin
+n1vi4usckos6b
+n1vi4usckos6b
+n
+passwd
+echo
+321
+>
+var
+tmp
+.var03522123
+rm
+-rf
+var
+tmp
+.var03522123
+cat
+var
+tmp
+.var03522123
+head
+-n
+1
+cat
+proc
+cpuinfo
+grep
+name
+head
+-n
+1
+awk
+'
+print
+$4
+$5
+$6
+$7
+$8
+$9
+}'
+free
+-m
+grep
+Mem
+awk
+'
+print
+$2
+$3
+$4
+$5
+$6
+$7}'
+ls
+-lh
+$
+which
+ls)
+crontab
+-l
+w
+uname
+-m
+cat
+proc
+cpuinfo
+grep
+model
+grep
+name
+wc
+-l
+top
+uname
+uname
+-a
+lscpu
+grep
+Model
+echo
+admin
+admin
+>
+tmp
+up.txt
+rm
+-rf
+var
+tmp
+dota*
+
+cat
+proc
+cpuinfo
+grep
+name
+wc
+-l
+echo
+-e
+p@ssw0rd123
+nIr5EEzXFWDUl
+nIr5EEzXFWDUl
+passwd
+bash
+echo
+p@ssw0rd123
+nIr5EEzXFWDUl
+nIr5EEzXFWDUl
+n
+passwd
+echo
+321
+>
+var
+tmp
+.var03522123
+rm
+-rf
+var
+tmp
+.var03522123
+cat
+var
+tmp
+.var03522123
+head
+-n
+1
+cat
+proc
+cpuinfo
+grep
+name
+head
+-n
+1
+awk
+'
+print
+$4
+$5
+$6
+$7
+$8
+$9
+}'
+free
+-m
+grep
+Mem
+awk
+'
+print
+$2
+$3
+$4
+$5
+$6
+$7}'
+ls
+-lh
+$
+which
+ls)
+crontab
+-l
+w
+uname
+-m
+cat
+proc
+cpuinfo
+grep
+model
+grep
+name
+wc
+-l
+top
+uname
+uname
+-a
+lscpu
+grep
+Model
+echo
+admin
+p@ssw0rd123
+>
+tmp
+up.txt
+rm
+-rf
+var
+tmp
+dota*
