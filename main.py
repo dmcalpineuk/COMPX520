@@ -19,7 +19,7 @@ import subprocess
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
 
 #from sentence_transformers import SentenceTransformer
-from SMET import map_text, map_attack_vector
+import SMET #from SMET import map_text, map_attack_vector
 
 #input files and location
 cowrie_file = './cowrie.json'
@@ -27,10 +27,11 @@ man_pages = './manpages.json'
 
 #output files and location
 commands_file = './commands.txt'
+mapped_commands = './mapped.txt'
 
 #variables are adjustable to test outcome
-threshold = 0.02
-CVE = False
+threshold = 0.1
+isCVE = False
 
 # Define the delimiters
 primary_delimiters = r"[;&]+"
@@ -97,24 +98,32 @@ def get_command_description(command):
 
 def map_commands(input):
     
-  description_paragraph = ''
-
-  if platform.system() != "Linux":
+  if platform.system() != 'Linux':
     #import man pages descriptions 
     man_pages_dict = read_json_dict(man_pages)
 
+  description_paragraph = ''
+  output_list = []
+  switch = True
+
   #map each line on first word and create paragraph
   for event in input:
-    if not event:
+    if (switch):
+      output_list.append(event)
+      switch = False
+    elif not event:
       number = 0
-      mapping = map_text(description_paragraph, CVE = CVE)
-      print()
+      mapping = SMET.map_text(description_paragraph, isCVE)
+      output_list.append('')
+      #output_list.append(description_paragraph)
+      #output_list.append('')
       while number < len(mapping):
         if mapping[number][1] > threshold:
-          print("- Mapping:", mapping[number][0])
+          output_list.append("- Mapping:" + '\t\t' + mapping[number][0])
         number += 1
-      print()
+      output_list.append('')
       description_paragraph = ''
+      switch = True
     else:
       first_word = event.split()[0]
       try:
@@ -123,66 +132,65 @@ def map_commands(input):
           description = get_command_description(first_word)
         else:
           description = man_pages_dict[first_word]
-        mapping = map_attack_vector(description)
-        print(first_word, ' - ', description, ' - ', mapping[0][0])
+        mapping = SMET.map_attack_vector(description)
+        output_list.append(event + '\t' + description + '\t' + mapping[0][0])
         description_paragraph += description + ". "
       except Exception as e:
-        #print(first_word, " - No description")
         continue
+
+  return output_list
 
 def main():
 
   #import cowrie.json data
   total_contents = read_json_list(cowrie_file)
 
-  print("Start")
-  print()
-
   input = []
-  new_input = []
   current_value = ""
 
   # create list of input events, in order, grouped by session
   for event in total_contents:
-    if 'cowrie.command.input' in event['eventid']:
-      primary_commands = re.split(primary_delimiters, event['input'])
+    if 'cowrie.command' in event['eventid']:
       if not current_value:
         current_value = event['session']
+        input.append("Session ID: " + current_value.strip())
       if current_value != event['session']:
         input.append('')
-        #new_input.append('')
+        current_value = event['session']
+        input.append("Session ID: " + current_value.strip())
+      primary_commands = re.split(primary_delimiters, event['input'].strip())
       for command in primary_commands:
         input.append(command.strip())
-      current_value = event['session']
-
-  for event in total_contents:
-    if 'cowrie.command.input' in event['eventid']:
-      secondary_commands = re.split(secondary_delimiters, event['input'])
-      if not current_value:
-        current_value = event['session']
-      if current_value != event['session']:
-        input.append('')
-        #new_input.append('')
-      for command in secondary_commands:
-        input.append(command.strip())
-      current_value = event['session']
 
   input.append('')
-  #new_input.append('')
+  current_value = ""
+
+  for event in total_contents:
+    if 'cowrie.command' in event['eventid']:
+      if not current_value:
+        current_value = event['session']
+        input.append("Session ID: " + current_value.strip())
+      if current_value != event['session']:
+        input.append('')
+        current_value = event['session']
+        input.append("Session ID: " + current_value.strip())
+      secondary_commands = re.split(secondary_delimiters, event['input'].strip())
+      for command in secondary_commands:
+        input.append(command.strip())
+  
+  input.append('')
 
   #create file containing list of commands
   write_json_list(input, commands_file)
 
-  #map_commands(input)
-  #map_commands(new_input)
+  output = map_commands(input)
 
-  for each in input:
-    print(each)
-#  for each in new_input:
-#    print(each)
+  for line in output:
+    print(line)
 
-  print("End")
-
+  write_json_list(output, mapped_commands)
 
 if __name__ == "__main__":
-    main()
+  print("Start" + '\n')
+  main()
+  print("End")
