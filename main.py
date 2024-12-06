@@ -26,12 +26,12 @@ cowrie_file = './cowrie.json'
 man_pages = './manpages.json'
 
 #output files and location
-commands_file = './commands.txt'
-mapped_commands = './mapped.txt'
+commands_file = './commands CVE on.txt'
+mapped_commands = './mapped CVE on.txt'
 
 #variables are adjustable to test outcome
 threshold = 0.1
-isCVE = False
+isCVE = True
 
 # Define the delimiters
 primary_delimiters = r"[;&]+"
@@ -105,12 +105,15 @@ def map_commands(input):
   description_paragraph = ''
   output_list = []
   switch = True
+  counter = len(input)
 
   #map each line on first word and create paragraph
   for event in input:
     if (switch):
       output_list.append(event)
       switch = False
+      print(counter)
+      counter -=1
     elif not event:
       number = 0
       mapping = SMET.map_text(description_paragraph, isCVE)
