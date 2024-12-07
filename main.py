@@ -112,7 +112,9 @@ def map_commands(input):
     if (switch):
       output_list.append(event)
       switch = False
-      print(os.system('cls'), "Start" + '\n', round(len(input)/counter))
+      os.system('cls')
+      print("Start" + '\n')
+      print(round(100-(counter/len(input))*100),"%")
       counter -=1
     elif not event:
       number = 0
@@ -197,7 +199,7 @@ def main():
   write_json_list(output, mapped_commands)
 
 if __name__ == "__main__":
-  print(os.system('cls'))
+  os.system('cls')
   print("Start" + '\n')
   main()
   print("End")

