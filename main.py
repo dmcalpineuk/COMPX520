@@ -19,19 +19,19 @@ import subprocess
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
 
 #from sentence_transformers import SentenceTransformer
-import SMET #from SMET import map_text, map_attack_vector
+from SMET import map_text, map_attack_vector
 
 #input files and location
 cowrie_file = './cowrie.json'
 man_pages = './manpages.json'
 
 #output files and location
-commands_file = './commands CVE on.txt'
-mapped_commands = './mapped CVE on.txt'
+commands_file = './commands.txt'
+mapped_commands = './mapped.txt'
 
 #variables are adjustable to test outcome
 threshold = 0.1
-isCVE = True
+isCVE = False
 
 # Define the delimiters
 primary_delimiters = r"[;&]+"
@@ -112,14 +112,12 @@ def map_commands(input):
     if (switch):
       output_list.append(event)
       switch = False
-      print(counter)
+      print(os.system('cls'), "Start" + '\n', round(len(input)/counter))
       counter -=1
     elif not event:
       number = 0
-      mapping = SMET.map_text(description_paragraph, isCVE)
+      mapping = map_text(description_paragraph, isCVE)
       output_list.append('')
-      #output_list.append(description_paragraph)
-      #output_list.append('')
       while number < len(mapping):
         if mapping[number][1] > threshold:
           output_list.append("- Mapping:" + '\t\t' + mapping[number][0])
@@ -135,7 +133,7 @@ def map_commands(input):
           description = get_command_description(first_word)
         else:
           description = man_pages_dict[first_word]
-        mapping = SMET.map_attack_vector(description)
+        mapping = map_attack_vector(description)
         output_list.append(event + '\t' + description + '\t' + mapping[0][0])
         description_paragraph += description + ". "
       except Exception as e:
@@ -161,11 +159,17 @@ def main():
         input.append('')
         current_value = event['session']
         input.append("Session ID: " + current_value.strip())
+      #split on primary_delimiters
       primary_commands = re.split(primary_delimiters, event['input'].strip())
       for command in primary_commands:
-        input.append(command.strip())
+        if (command):
+          input.append(command.strip())
 
   input.append('')
+
+  #create file containing list of commands
+  write_json_list(input, commands_file)
+
   current_value = ""
 
   for event in total_contents:
@@ -177,14 +181,13 @@ def main():
         input.append('')
         current_value = event['session']
         input.append("Session ID: " + current_value.strip())
+      #split on secondary_delimiters
       secondary_commands = re.split(secondary_delimiters, event['input'].strip())
       for command in secondary_commands:
-        input.append(command.strip())
+        if (command):
+          input.append(command.strip())
   
   input.append('')
-
-  #create file containing list of commands
-  write_json_list(input, commands_file)
 
   output = map_commands(input)
 
@@ -194,6 +197,7 @@ def main():
   write_json_list(output, mapped_commands)
 
 if __name__ == "__main__":
+  print(os.system('cls'))
   print("Start" + '\n')
   main()
   print("End")

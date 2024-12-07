@@ -1,0 +1,26 @@
+Session ID: 5d2555c04cd3
+ls -al /tmp/foo	list directory contents	File and Directory Discovery
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
+dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
+lspci | grep irti	list all PCI devices	Peripheral Device Discovery
+
+- Mapping:		Process Discovery
+- Mapping:		Indicator Removal
+- Mapping:		Peripheral Device Discovery
+- Mapping:		Process Injection
+
+Session ID: 5d2555c04cd3
+ls	list directory contents	File and Directory Discovery
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
+dmesg	print or control the kernel ring buffer	Process Injection
+grep	print lines that match patterns	Automated Collection
+lspci	list all PCI devices	Peripheral Device Discovery
+grep	print lines that match patterns	Automated Collection
+
+- Mapping:		Process Discovery
+- Mapping:		Indicator Removal
+- Mapping:		Peripheral Device Discovery
+- Mapping:		Process Injection
+- Mapping:		Automated Collection

@@ -1,0 +1,6 @@
+Session ID: 5d2555c04cd3
+ls -al /tmp/foo
+rm /tmp/foo
+ps -x
+dmesg | grep irtual
+lspci | grep irti
