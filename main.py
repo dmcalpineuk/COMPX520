@@ -17,6 +17,7 @@ import re
 import subprocess
 
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
+os.environ["TOKENIZERS_PARALLELISM"] = "error"
 
 #input files and location
 cowrie_file = './cowrie.json'
@@ -79,7 +80,7 @@ def get_command_description(command):
     # Get the output of the command
     man_page = result.stdout
 
-    description = re.compile(r"^.*NAME.*?\n(.*?)(?=\n\s*SYNOPSIS|\n\s*DESCRIPTION|\n\s*OPTIONS)", re.DOTALL | re.IGNORECASE)
+    description = re.compile(r"^.*NAME.*?\n(.*?)(?=\n\s*SYNOPSIS)", re.DOTALL | re.IGNORECASE)
     match = description.search(man_page)
 
     if match:
