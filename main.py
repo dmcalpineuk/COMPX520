@@ -96,7 +96,7 @@ def map_commands(input):
     #import man pages descriptions 
     man_pages_dict = read_json_dict(man_pages)
 
-  #from sentence_transformers import SentenceTransformer
+  #import relevant libraries from SMET
   from SMET import map_text, map_attack_vector
 
   description_paragraph = ''
