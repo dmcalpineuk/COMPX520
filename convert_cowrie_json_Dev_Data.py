@@ -13,9 +13,9 @@ __dependecies__ = "os, json, SMET, sentence_transformers"
 import json
 
 #input file
-file_name = './all_commands_from_log_files.json'
+file_name = './cowrie_2020-02-29.json'
 #output file
-file_path = './cowrie.json'
+file_path = './dev_data.json'
 
 def main():
 
@@ -30,7 +30,7 @@ def main():
     for item in event.values():
       for next in item:
         if 'cowrie.command' in next['eventid']:
-           string += '{"eventid":"'+next['eventid']+'","input":'+json.dumps(next['message'].split(' ', 1)[1])+',"message":'+json.dumps(next['message'])+',"sensor":"'+next['sensor']+'","timestamp":"'+next['timestamp']+'","src_ip":"'+next['src_ip_identifier']+'","session":"'+next['session_id']+'"}\n'
+          string += '{"eventid":"'+next['eventid']+'","input":'+json.dumps(next['message'].split(' ', 1)[1])+',"message":'+json.dumps(next['message'])+',"sensor":"'+next['sensor']+'","timestamp":"'+next['timestamp']+'","src_ip":"'+next['src_ip_identifier']+'","session":"'+next['session_id']+'"}\n'
 
   #save output to file
   with open(file_path, 'w', newline='\n') as f:

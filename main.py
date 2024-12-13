@@ -18,9 +18,6 @@ import subprocess
 
 os.environ["TRANSFORMERS_VERBOSITY"] = "error"
 
-#from sentence_transformers import SentenceTransformer
-from SMET import map_text, map_attack_vector
-
 #input files and location
 cowrie_file = './cowrie.json'
 man_pages = './manpages.json'
@@ -30,12 +27,13 @@ commands_file = './commands.txt'
 mapped_commands = './mapped.txt'
 
 #variables are adjustable to test outcome
-threshold = 0.1
+threshold = 0.05
 isCVE = False
 
 # Define the delimiters
-primary_delimiters = r"[;&]+"
-secondary_delimiters = r"[;&|({\" ,\\/]+"
+primary_delimiters = r"[;]+"
+secondary_delimiters = r"[&]+"
+excluded = ['cat','grep','echo']
 
 def read_json_list(input_file):
   #import json file as python list
@@ -55,6 +53,7 @@ def write_json_list(output_data, output_file):
   with open(output_file, 'w', newline='\n') as openfile:
     openfile.write('\n'.join(output_data))
 
+'''
 def write_json_dict(output_data, output_file):
   #output dictionary to json file with Unix newline
   with open(output_file, 'w', newline='\n') as openfile:
@@ -64,37 +63,31 @@ def write_json_dict(output_data, output_file):
           openfile.write("\n")
         else:
           openfile.write(json.dumps(line.strip())+"\n")
+'''
 
 def get_command_description(command):
-  # Run the man command and capture the output
-  result = subprocess.run(
-    f"man {command} | col -b",
-    shell=True,
-    capture_output=True,
-    text=True,
-    check=True
-  )
+  try:
+  # Run the man command with col -b to strip formatting and capture output
+    result = subprocess.run(
+      f"man {command} | col -b",
+      shell=True,
+      capture_output=True,
+      text=True,
+      check=True
+      )
 
-  # Split the output into lines
-  output = result.stdout.splitlines()
+    # Get the output of the command
+    man_page = result.stdout
 
-  # Initialize variables
-  description_started = False
-  first_sentence = ""
+    description = re.compile(r"^.*NAME.*?\n(.*?)(?=\n\s*SYNOPSIS|\n\s*DESCRIPTION|\n\s*OPTIONS)", re.DOTALL | re.IGNORECASE)
+    match = description.search(man_page)
 
-  for line in output:
-    if re.match(r'^\s*DESCRIPTION\s*$', line, re.IGNORECASE):
-      description_started = True
-      continue
-
-    if description_started:
-      # Collect lines until the end of the first sentence
-      first_sentence += line.strip(r'[.!?]') + " "
-      if re.search(r'[.!?]', line):  # Look for sentence-ending punctuation
-        break
-
-  # Return the first sentence, trimmed of excess whitespace
-  return first_sentence.strip()
+    if match:
+      return match.group(1).split('-')[1].strip()
+    else:
+      return None
+  except Exception as e:
+    return None
 
 def map_commands(input):
     
@@ -102,27 +95,32 @@ def map_commands(input):
     #import man pages descriptions 
     man_pages_dict = read_json_dict(man_pages)
 
+  #from sentence_transformers import SentenceTransformer
+  from SMET import map_text, map_attack_vector
+
   description_paragraph = ''
   output_list = []
   switch = True
-  counter = len(input)
+  counter = 0
 
   #map each line on first word and create paragraph
   for event in input:
+    counter += 1
     if (switch):
       output_list.append(event)
       switch = False
-      os.system('cls')
-      print("Start" + '\n')
-      print(round(100-(counter/len(input))*100),"%")
-      counter -=1
     elif not event:
+      os.system('cls' if os.name == 'nt' else 'clear')
+      print('Running' + '\n')
+      print(round(100*counter/len(input)),"%\n")
       number = 0
+      #output_list.append('')
+      #output_list.append(description_paragraph)
       mapping = map_text(description_paragraph, isCVE)
       output_list.append('')
       while number < len(mapping):
         if mapping[number][1] > threshold:
-          output_list.append("- Mapping:" + '\t\t' + mapping[number][0])
+          output_list.append("- Mapping:" + '\t\t' + mapping[number][0]+ str(mapping[number][1]))
         number += 1
       output_list.append('')
       description_paragraph = ''
@@ -140,7 +138,6 @@ def map_commands(input):
         description_paragraph += description + ". "
       except Exception as e:
         continue
-
   return output_list
 
 def main():
@@ -164,7 +161,7 @@ def main():
       #split on primary_delimiters
       primary_commands = re.split(primary_delimiters, event['input'].strip())
       for command in primary_commands:
-        if (command):
+        if command and command.split()[0] not in excluded:
           input.append(command.strip())
 
   input.append('')
@@ -186,12 +183,14 @@ def main():
       #split on secondary_delimiters
       secondary_commands = re.split(secondary_delimiters, event['input'].strip())
       for command in secondary_commands:
-        if (command):
+        if command and command.split()[0] not in excluded:
           input.append(command.strip())
   
   input.append('')
 
   output = map_commands(input)
+
+  os.system('cls' if os.name == 'nt' else 'clear')
 
   for line in output:
     print(line)
@@ -199,7 +198,7 @@ def main():
   write_json_list(output, mapped_commands)
 
 if __name__ == "__main__":
-  os.system('cls')
-  print("Start" + '\n')
+  os.system('cls' if os.name == 'nt' else 'clear')
+  print("Started")
   main()
-  print("End")
+  print("Finished")

