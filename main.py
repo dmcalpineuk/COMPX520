@@ -8,7 +8,7 @@ __version__ = "1.0.0"
 __maintainer__ = "Daniel McAlpine"
 __email__ = "contact@danielmcalpine.com"
 __status__ = "Prototype"
-__dependecies__ = "json, os, platform, re, subprocess, sentence_transformers, SMET"
+__dependecies__ = "json, os, platform, re, subprocess, SMET"
 
 import json
 import os
@@ -28,13 +28,13 @@ commands_file = './commands.txt'
 mapped_commands = './mapped.txt'
 
 #variables are adjustable to test outcome
-threshold = 0.05
+threshold = 0.1
 isCVE = False
 
 # Define the delimiters
-primary_delimiters = r"[;]+"
-secondary_delimiters = r"[&]+"
-excluded = ['cat','grep','echo']
+primary_delimiters = r"[;&]+"
+secondary_delimiters = r"[;&|]+"
+excluded = ['mkdir','cat','echo']
 
 def read_json_list(input_file):
   #import json file as python list
@@ -54,21 +54,9 @@ def write_json_list(output_data, output_file):
   with open(output_file, 'w', newline='\n') as openfile:
     openfile.write('\n'.join(output_data))
 
-'''
-def write_json_dict(output_data, output_file):
-  #output dictionary to json file with Unix newline
-  with open(output_file, 'w', newline='\n') as openfile:
-    for key in output_data.keys():
-      for line in output_data[key]:
-        if line is None:
-          openfile.write("\n")
-        else:
-          openfile.write(json.dumps(line.strip())+"\n")
-'''
-
 def get_command_description(command):
   try:
-  # Run the man command with col -b to strip formatting and capture output
+    # Run the man command with col -b to strip formatting and capture output
     result = subprocess.run(
       f"man {command} | col -b",
       shell=True,
@@ -80,9 +68,11 @@ def get_command_description(command):
     # Get the output of the command
     man_page = result.stdout
 
+    # capture description
     description = re.compile(r"^.*NAME.*?\n(.*?)(?=\n\s*SYNOPSIS)", re.DOTALL | re.IGNORECASE)
     match = description.search(man_page)
 
+    # return the description
     if match:
       return match.group(1).split('-')[1].strip()
     else:
@@ -112,11 +102,11 @@ def map_commands(input):
       switch = False
     elif not event:
       os.system('cls' if os.name == 'nt' else 'clear')
+      # progress counter
       print('Running' + '\n')
       print(round(100*counter/len(input)),"%\n")
       number = 0
-      #output_list.append('')
-      #output_list.append(description_paragraph)
+      # creates report for analysis
       mapping = map_text(description_paragraph, isCVE)
       output_list.append('')
       while number < len(mapping):
