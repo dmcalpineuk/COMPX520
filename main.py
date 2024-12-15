@@ -32,9 +32,9 @@ threshold = 0.1
 isCVE = False
 
 # Define the delimiters
-primary_delimiters = r"[;&]+"
-secondary_delimiters = r"[;&|]+"
-excluded = ['mkdir','cat','echo']
+primary_delimiters = r"[;]+"
+secondary_delimiters = r"[;&]+"
+excluded = ['mkdir']
 
 def read_json_list(input_file):
   #import json file as python list
