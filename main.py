@@ -33,8 +33,8 @@ isCVE = False
 
 # Define the delimiters
 primary_delimiters = r"[;]+"
-secondary_delimiters = r"[;&]+"
-excluded = ['mkdir']
+secondary_delimiters = r"[|]+"
+excluded = ['cat']
 
 def read_json_list(input_file):
   #import json file as python list
